@@ -15,7 +15,7 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Data Analysts</Link>
+                  <Link href="/services/details">SAP ERP Solutions</Link>
                 </h3>
                 <p>
                   It is a long established fact that a reader will be distracted
@@ -31,7 +31,7 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Automatic Optimization</Link>
+                  <Link href="/services/details">Application Development</Link>
                 </h3>
                 <p>
                   It is a long established fact that a reader will be distracted
@@ -47,7 +47,7 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Security & Surveillance</Link>
+                  <Link href="/services/details">Cyber Security</Link>
                 </h3>
                 <p>
                   It is a long established fact that a reader will be distracted
@@ -64,7 +64,7 @@ const ServicesContent = () => {
 
                 <h3>
                   <Link href="/services/details">
-                    Healthcare & Manufacturing
+                    Staff Augmentation
                   </Link>
                 </h3>
                 <p>
@@ -81,7 +81,7 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Software Engineers</Link>
+                  <Link href="/services/details">Data Center</Link>
                 </h3>
                 <p>
                   It is a long established fact that a reader will be distracted
@@ -97,7 +97,8 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">IT Professionals</Link>
+                  <Link href="/services/details">IoT
+</Link>
                 </h3>
                 <p>
                   It is a long established fact that a reader will be distracted

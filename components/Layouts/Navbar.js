@@ -122,17 +122,7 @@ const Navbar = () => {
                     
                   </li>
 
-                  <li className="nav-item">
-                    <Link
-                      href="#"
-                      className="nav-link"
-                      // onClick={(e) => e.preventDefault()}
-                    >
-                      Career 
-                    </Link>
-
-                    
-                  </li>
+                  
 
                   
 

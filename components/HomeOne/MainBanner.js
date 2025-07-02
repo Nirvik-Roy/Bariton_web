@@ -20,7 +20,7 @@ const MainBanner = () => {
                   data-aos-duration="1000"
                   data-aos-delay="100"
                 >
-                  World’s Leading Machine Learning Company
+                  Empowring Business with Intelligent Machine Learning Solutions
                 </h1>
 
                 <p
@@ -28,10 +28,7 @@ const MainBanner = () => {
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
-                  ML today are able to supply needful of help, information, and
-                  positive experience of maintaining intimacy with customers.
-                  Eventually, chatbot ideas bring a pleasant experience of all
-                  these qualities into the conversation.
+                  Our cutting-edge ML technologies deliver smarter support, deeper insights, and meaningful customer engagement. From advanced chatbots to intelligent automation, we help you create experience that connect, convert, and grow.
                 </p>
 
                 <div

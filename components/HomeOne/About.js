@@ -38,19 +38,12 @@ const About = () => {
                 data-aos-duration="1000"
                 data-aos-delay="600"
               >
-                <h2>Engaging New Audiences Through Smart Approach</h2>
+                <h2>Engaging New Audiences Through Smarter Solutions</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea.
+                  We blend intelligent technology with creative strategy to help business attract, engage, and retain modern customers. From AI-powered automation to personalized user experiences- we deliver results that matters.
                 </p>
                 <p>
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a passage of
-                  Lorem Ipsum, you need to be sure there isn't.
+                  Our Solutions are tailored to your goals, ensuring every interaction is impactful, authentic, and growth-driven. With innovation at our core, we transform how brands connect people.
                 </p>
 
                 <Link href="/about-us" className="btn btn-primary">

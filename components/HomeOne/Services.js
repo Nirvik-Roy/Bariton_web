@@ -28,11 +28,10 @@ const Services = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Data Analysts</Link>
+                  <Link href="/services/details">Software Development & Consulting</Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  End-to-end solutions from ideation to deployment, tailored to help you unlock potential
                 </p>
               </div>
             </div>
@@ -49,11 +48,10 @@ const Services = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Automatic Optimization</Link>
+                  <Link href="/services/details">Robotic Process Automation (RPA) & Cognitive Automation</Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  Automate routine tasks with precision and intelligence, boosting performance and reliability
                 </p>
               </div>
             </div>
@@ -70,11 +68,10 @@ const Services = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Security & Surveillance</Link>
+                  <Link href="/services/details">Cognitive Engagement</Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  Enhance customer and employee interactions using AI-driven tools and platforms
                 </p>
               </div>
             </div>
@@ -92,12 +89,11 @@ const Services = () => {
 
                 <h3>
                   <Link href="/services/details">
-                    Healthcare & Manufacturing
+                    ERP & IOT Integration
                   </Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  Seamlessly connect your enterprise systems and devices using modern ERP and IoT frameworks
                 </p>
               </div>
             </div>
@@ -114,11 +110,10 @@ const Services = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Software Engineers</Link>
+                  <Link href="/services/details">Workforce Solutions</Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                 From recruitment support to management tools, streamline your human capital operations.
                 </p>
               </div>
             </div>
@@ -135,11 +130,10 @@ const Services = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">IT Professionals</Link>
+                  <Link href="/services/details">E-Learning Platform Development</Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  Engage learners with interactive digital education platforms aimed at long-term skill development.
                 </p>
               </div>
             </div>

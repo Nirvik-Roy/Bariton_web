@@ -26,7 +26,7 @@ const AboutContact = () => {
 
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
-                <h2>Engaging New Audiences Through Smart Approach</h2>
+                <h2>About us</h2>
                 <p>
                   At Grue & Bleen Technologies Pvt. Ltd., innovation meets expertise. Founded in 2023 in Kolkata, West Bengal, we are a boutique IT company with a mission to translate ideas into cutting-edge digital solutions. From bespoke software development to cognitive automation, workforce solutions, and e-learning platforms, we craft experiences that empower businesses worldwide
                 </p>

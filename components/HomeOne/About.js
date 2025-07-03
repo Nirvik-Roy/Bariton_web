@@ -38,7 +38,7 @@ const About = () => {
                 data-aos-duration="1000"
                 data-aos-delay="600"
               >
-                <h2>Engaging New Audiences Through Smarter Solutions</h2>
+                <h2>Engaging New Audiences Through Smarter Digital Solutions</h2>
                 <p>
                   We blend intelligent technology with creative strategy to help business attract, engage, and retain modern customers. From AI-powered automation to personalized user experiences- we deliver results that matters.
                 </p>

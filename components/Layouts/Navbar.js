@@ -56,7 +56,7 @@ const Navbar = () => {
                   height={37}
                 />
                 <Image
-                  src="/images/black-logo.png"
+                  src="/images/gruelogo_head_foot.png"
                   className="optional-logo"
                   alt="logo"
                   width={149}

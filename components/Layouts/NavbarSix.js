@@ -52,7 +52,7 @@ const NavbarSix = () => {
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand">
                 <Image
-                  src="/images/black-logo.png"
+                  src="/images/gruelogo.png"
                   alt="logo"
                   width={149}
                   height={37}

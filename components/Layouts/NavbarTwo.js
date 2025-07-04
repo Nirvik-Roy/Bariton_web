@@ -49,7 +49,7 @@ const NavbarTwo = () => {
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand">
                 <Image
-                  src="/images/white-logo.png"
+                  src="/images/gruelogo_head_foot.png"
                   className="main-logo"
                   alt="logo"
                   width={149}

@@ -19,7 +19,7 @@ const Footer = () => {
                 <div className="logo">
                   <Link href="/">
                     <Image
-                      src="/images/white-logo.png"
+                      src="/images/gruelogo_head_foot.png"
                       alt="image"
                       width={149}
                       height={37}
@@ -131,7 +131,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <span>Email:</span>
-                    bariton@gmail.com
+                    loremipsum@gmail.com
                   </li>
                   <li>
                     <span>Phone:</span>
@@ -152,7 +152,7 @@ const Footer = () => {
             <div className="row align-items-center">
               <div className="col-lg-6 col-md-6 col-sm-6">
                 <p>
-                  Copyright &copy;{currentYear} Bariton. All Rights Reserved{" "}
+                  Copyright &copy;{currentYear} Grue Bleen. All Rights Reserved{" "}
                   <a href="https://envytheme.com/" target="_blank">
                     EnvyTheme
                   </a>

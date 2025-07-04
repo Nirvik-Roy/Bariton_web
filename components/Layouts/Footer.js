@@ -152,11 +152,11 @@ const Footer = () => {
             <div className="row align-items-center">
               <div className="col-lg-6 col-md-6 col-sm-6">
                 <p>
-                  Copyright &copy;{currentYear} Grue Bleen. All Rights Reserved{" "}
-                  <a href="https://envytheme.com/" target="_blank">
+                  Copyright &copy;{currentYear} Grue & Bleen. All Rights Reserved{" "}
+                  {/* <a href="https://envytheme.com/" target="_blank">
                     EnvyTheme
-                  </a>
-                  .
+                  </a> */}
+                  
                 </p>
               </div>
 

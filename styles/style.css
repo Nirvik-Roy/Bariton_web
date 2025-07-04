@@ -360,6 +360,19 @@ Navbar Area CSS
   list-style-type: none;
   margin-bottom: 0;
 }
+.services-list {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.services-list li {
+  margin-bottom: 15px;
+}
+
+.services-list strong {
+  font-weight: 700;
+  color: #1a52b4;
+}
 .main-nav .navbar .navbar-nav {
   font-family: "Dosis", sans-serif;
   margin-left: auto;

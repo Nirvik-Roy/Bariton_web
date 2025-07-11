@@ -19,7 +19,7 @@ const Footer = () => {
                 <div className="logo">
                   <Link href="/">
                     <Image
-                      src="/images/white-logo.png"
+                      src="/images/gruelogo_head_foot.png"
                       alt="image"
                       width={149}
                       height={37}
@@ -131,7 +131,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <span>Email:</span>
-                    bariton@gmail.com
+                    loremIpsum@gmail.com
                   </li>
                   <li>
                     <span>Phone:</span>

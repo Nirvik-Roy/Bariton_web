@@ -10,6 +10,7 @@ import PricingCard from "../components/Common/PricingCard";
 import BlogPost from "../components/Common/BlogPost";
 import FreeTrialForm from "../components/Common/FreeTrialForm";
 import Footer from "../components/Layouts/Footer";
+import { useRouter } from "next/router";
 
 export default function Home() {
   return (

@@ -49,14 +49,14 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand">
                 <Image
-                  src="/images/white-logo.png"
+                  src="/images/gruelogo_head_foot.png"
                   className="main-logo"
                   alt="logo"
                   width={149}
                   height={37}
                 />
                 <Image
-                  src="/images/black-logo.png"
+                  src="/images/gruelogo_head_foot.png"
                   className="optional-logo"
                   alt="logo"
                   width={149}
@@ -103,7 +103,7 @@ const Navbar = () => {
                           }`}
                       // onClick={(e) => e.preventDefault()}
                     >
-                      Pages
+                      About Us
                     </Link>
 
                     

@@ -6,7 +6,7 @@ const BlogSidebar = () => {
     <>
       <div className="widget-area" id="secondary">
         {/* Search form */}
-        <div className="widget widget_search">
+        {/* <div className="widget widget_search">
           <form className="search-form">
             <label>
               <input
@@ -19,7 +19,7 @@ const BlogSidebar = () => {
               <i className="fas fa-search"></i>
             </button>
           </form>
-        </div>
+        </div> */}
 
         {/* Popular posts */}
         <div className="widget widget_posts_thumb">
@@ -93,7 +93,7 @@ const BlogSidebar = () => {
         </div>
 
         {/* Recent posts */}
-        <div className="widget widget_recent_entries">
+        {/* <div className="widget widget_recent_entries">
           <h3 className="widget-title">Recent posts</h3>
 
           <ul>
@@ -128,10 +128,10 @@ const BlogSidebar = () => {
               <span className="post-date">March 19, 2023</span>
             </li>
           </ul>
-        </div>
+        </div> */}
 
         {/* Categories */}
-        <div className="widget widget_categories">
+        {/* <div className="widget widget_categories">
           <h3 className="widget-title">Categories</h3>
 
           <ul>
@@ -151,10 +151,10 @@ const BlogSidebar = () => {
               <Link href="#">Uncategorized</Link>
             </li>
           </ul>
-        </div>
+        </div> */}
 
         {/* Tags */}
-        <div className="widget widget_tag_cloud">
+        {/* <div className="widget widget_tag_cloud">
           <h3 className="widget-title">Tags</h3>
 
           <div className="tagcloud">
@@ -190,7 +190,7 @@ const BlogSidebar = () => {
               Tips <span className="tag-link-count">(2)</span>
             </Link>
           </div>
-        </div>
+        </div> */}
       </div>
     </>
   );

@@ -113,7 +113,7 @@ const Services = () => {
                   <Link href="/services/details">Workforce Solutions</Link>
                 </h3>
                 <p>
-                 From recruitment support to management tools, streamline your human capital operations.
+                  From recruitment support to management tools, streamline your human capital operations.
                 </p>
               </div>
             </div>
@@ -134,6 +134,66 @@ const Services = () => {
                 </h3>
                 <p>
                   Engage learners with interactive digital education platforms aimed at long-term skill development.
+                </p>
+              </div>
+            </div>
+
+            <div
+              className="col-lg-4 col-sm-6"
+              data-aos="fade-in"
+              data-aos-duration="1000"
+              data-aos-delay="600"
+            >
+              <div className="single-services-box">
+                <div className="icon">
+                  <i className="flaticon-ceo"></i>
+                </div>
+
+                <h3>
+                  <Link href="/services/details">AI-Powered Chatbots </Link>
+                </h3>
+                <p>
+                  Enhance customer support with 24/7 intelligent conversational agents
+                </p>
+              </div>
+            </div>
+
+            <div
+              className="col-lg-4 col-sm-6"
+              data-aos="fade-in"
+              data-aos-duration="1000"
+              data-aos-delay="600"
+            >
+              <div className="single-services-box">
+                <div className="icon">
+                  <i className="flaticon-ceo"></i>
+                </div>
+
+                <h3>
+                  <Link href="/services/details">Custom ML Model Development </Link>
+                </h3>
+                <p>
+                  Build tailored models to solve your specific business challenges.
+                </p>
+              </div>
+            </div>
+
+                                    <div
+              className="col-lg-4 col-sm-6"
+              data-aos="fade-in"
+              data-aos-duration="1000"
+              data-aos-delay="600"
+            >
+              <div className="single-services-box">
+                <div className="icon">
+                  <i className="flaticon-ceo"></i>
+                </div>
+
+                <h3>
+                  <Link href="/services/details">Fraud Detection & Risk Management  </Link>
+                </h3>
+                <p>
+                 Secure your operations with intelligent threat analysis.
                 </p>
               </div>
             </div>

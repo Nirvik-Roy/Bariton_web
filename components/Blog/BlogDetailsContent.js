@@ -24,47 +24,21 @@ const BlogDetailsContent = () => {
                 <div className="article-content">
                   <div className="entry-meta">
                     <ul>
-                      <li>
-                        <span>Posted On:</span>
-                        September 14, 2023
-                      </li>
-                      <li>
-                        <span>Posted By:</span>
-                        <Link href="#">John Anderson</Link>
-                      </li>
+
                     </ul>
                   </div>
 
-                  <h2>Here are the 5 most telling signs of micromanagement</h2>
+                  <h2>AI Related Blog</h2>
 
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry’s
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book. It has survived not only five centuries,
-                    but also the leap into electronic typesetting, remaining
-                    essentially unchanged.
+                    Generative AI tools are becoming everyday business utilities, yet true value comes from proprietary fine tuning, integration. AI isn't here to replace humans—it’s a powerful collaborator. And also AI expansion continues beyond software—it’s reshaping data centers and chip design. Massive infrastructure investments, like the Stargate initiative, aim to build next-gen compute capacity.
                   </p>
 
-                  <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry’s
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took.
-                  </p>
+                
 
-                  <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry’s
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book. It has survived not only five centuries,
-                    but also the leap into electronic typesetting, remaining
-                    essentially unchanged.
-                  </p>
+             
 
-                  <blockquote className="wp-block-quote">
+                  {/* <blockquote className="wp-block-quote">
                     <p>
                       It is a long established fact that a reader will be
                       distracted by the readable content of a page when looking
@@ -72,15 +46,9 @@ const BlogDetailsContent = () => {
                     </p>
 
                     <cite>Tom Cruise</cite>
-                  </blockquote>
+                  </blockquote> */}
 
-                  <p>
-                    Equidem impedit officiis quo te. Illud partem sententiae mel
-                    eu, euripidis urbanitas et sit. Mediocrem reprimique an vim,
-                    veniam tibique omittantur duo ut, agam graeci in vim. Quot
-                    appetere patrioque te mea, animal aliquip te pri. Ad vis
-                    animal ceteros percipitur, eos tollit civibus percipitur no.
-                  </p>
+              
 
                   <ul className="wp-block-gallery columns-3">
                     <li className="blocks-gallery-item">
@@ -117,99 +85,65 @@ const BlogDetailsContent = () => {
                     </li>
                   </ul>
 
-                  <h3>10 Tactics for marketing your company</h3>
-
-                  <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry’s
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took.
-                  </p>
-
-                  <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry’s
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book. It has survived not only five centuries,
-                    but also the leap into electronic typesetting, remaining
-                    essentially unchanged.
-                  </p>
-
-                  <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry’s
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took.
-                  </p>
-
-                  <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry’s
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book. It has survived not only five centuries,
-                    but also the leap into electronic typesetting, remaining
-                    essentially unchanged.
-                  </p>
+                 
                 </div>
 
-                <div className="article-footer">
-                  <div className="article-tags">
-                    <span>
-                      <i className="fas fa-bookmark"></i>
-                    </span>
+                {/* <div className="article-footer">
+                    <div className="article-tags">
+                      <span>
+                        <i className="fas fa-bookmark"></i>
+                      </span>
 
-                    <Link href="#">Fashion</Link>
-                    <Link href="#">Games</Link>
-                    <Link href="#">Travel</Link>
-                  </div>
+                      <Link href="#">Fashion</Link>
+                      <Link href="#">Games</Link>
+                      <Link href="#">Travel</Link>
+                    </div>
 
-                  <div className="article-share">
-                    <ul className="social">
-                      <li>
-                        <a
-                          href="https://www.facebook.com/"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          <i className="fab fa-facebook-f"></i>
-                        </a>
-                      </li>
-                      <li>
-                        <a
-                          href="https://www.twitter.com/"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          <i className="fab fa-twitter"></i>
-                        </a>
-                      </li>
-                      <li>
-                        <a
-                          href="https://www.linkedin.com/"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          <i className="fab fa-linkedin-in"></i>
-                        </a>
-                      </li>
-                      <li>
-                        <a
-                          href="https://www.instagram.com/"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          <i className="fab fa-instagram"></i>
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
+                    <div className="article-share">
+                      <ul className="social">
+                        <li>
+                          <a
+                            href="https://www.facebook.com/"
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            <i className="fab fa-facebook-f"></i>
+                          </a>
+                        </li>
+                        <li>
+                          <a
+                            href="https://www.twitter.com/"
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            <i className="fab fa-twitter"></i>
+                          </a>
+                        </li>
+                        <li>
+                          <a
+                            href="https://www.linkedin.com/"
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            <i className="fab fa-linkedin-in"></i>
+                          </a>
+                        </li>
+                        <li>
+                          <a
+                            href="https://www.instagram.com/"
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            <i className="fab fa-instagram"></i>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div> */}
               </div>
 
               {/* Blog Comments Area */}
-              <BlogCommentsArea />
+              {/* <BlogCommentsArea /> */}
             </div>
 
             <div className="col-lg-4 col-md-12">

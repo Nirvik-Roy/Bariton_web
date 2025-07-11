@@ -15,11 +15,10 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">SAP ERP Solutions</Link>
+                  <Link href="/services/details">Software Development & Consulting</Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  End to end solutions from ideation to deployment, tailored to help you unlock digital potential.
                 </p>
               </div>
             </div>
@@ -31,11 +30,10 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Application Development</Link>
+                  <Link href="/services/details">Robotic Process Automation (RPA) & Cognitive Automation</Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  Automate routine tasks with precision and intelligence, boosting performance and reliability .
                 </p>
               </div>
             </div>
@@ -47,11 +45,10 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Cyber Security</Link>
+                  <Link href="/services/details">Cognitive Engagement</Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  Enhance customer and employee interactions using AI-driven tools and platforms .
                 </p>
               </div>
             </div>
@@ -64,12 +61,11 @@ const ServicesContent = () => {
 
                 <h3>
                   <Link href="/services/details">
-                    Staff Augmentation
+                    ERP & IoT Integration
                   </Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  Seamlessly connect your enterprise systems and devices using modern ERP and IoT frameworks .
                 </p>
               </div>
             </div>
@@ -81,11 +77,10 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Data Center</Link>
+                  <Link href="/services/details">Workforce Solutions</Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  From recruitment support to management tools, streamline your human capital operations .
                 </p>
               </div>
             </div>
@@ -97,12 +92,11 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">IoT
+                  <Link href="/services/details">E Learning Platform Development
 </Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                 Engage learners with interactive digital education platforms aimed at long term skill development.
                 </p>
               </div>
             </div>
@@ -114,11 +108,10 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Data Visualization</Link>
+                  <Link href="/services/details">AI-Powered Chatbots </Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                 Enhance customer support with 24/7 intelligent conversational agents.
                 </p>
               </div>
             </div>
@@ -130,11 +123,10 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Big Data Strategy</Link>
+                  <Link href="/services/details">Custom ML Model Development </Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                Build tailored models to solve your specific business challenges.
                 </p>
               </div>
             </div>
@@ -146,17 +138,16 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Machine Learning Data</Link>
+                  <Link href="/services/details">Fraud Detection & Risk Management </Link>
                 </h3>
                 <p>
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
+                  Secure your operations with intelligent threat analysis.
                 </p>
               </div>
             </div>
 
             {/* Pagination */}
-            <div className="col-lg-12 col-sm-12">
+            {/* <div className="col-lg-12 col-sm-12">
               <div className="pagination-area">
                 <a href="#" className="prev page-numbers">
                   <i className="fas fa-angle-double-left"></i>
@@ -182,7 +173,7 @@ const ServicesContent = () => {
                   <i className="fas fa-angle-double-right"></i>
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
 

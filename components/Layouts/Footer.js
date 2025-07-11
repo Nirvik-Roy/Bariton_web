@@ -25,11 +25,11 @@ const Footer = () => {
                       height={37}
                     />
                   </Link>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore magna
                     aliqua. Ut enim ad minim veniam, quis nostrud.
-                  </p>
+                  </p> */}
                 </div>
 
                 <ul className="social">
@@ -127,7 +127,7 @@ const Footer = () => {
                 <ul className="footer-contact-list">
                   <li>
                     <span>Address:</span>
-                    2750 Quadra Street <br /> Victoria, Canada
+                   GROUND FLOOR, FLAT – G/F, GROUND FLOOR, “NIGHAM SMRITI APARTMENT” 175/1, BLOCK A, Bangur Ave, Kolkata, West Bengal 700055
                   </li>
                   <li>
                     <span>Email:</span>
@@ -135,12 +135,12 @@ const Footer = () => {
                   </li>
                   <li>
                     <span>Phone:</span>
-                    +44 587 154756
+                 091637 76777
                   </li>
-                  <li>
+                  {/* <li>
                     <span>Fax:</span>
-                    +44 785 4578964
-                  </li>
+                   091637 76777
+                  </li> */}
                 </ul>
               </div>
             </div>

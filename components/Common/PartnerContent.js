@@ -9,8 +9,10 @@ const PartnerContent = () => {
           <div className="section-title">
             <h2>Featured Customers & Partners</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              We're proud to collaborate with forward-thinking clients and trusted partners across industries. Their belief in out technology and commitment to innovation drives mutual growth and success.
+            </p>
+            <p>
+              Together, we build intelligent solutions that create real-world inpact transforming ideas into measurable results.
             </p>
           </div>
 

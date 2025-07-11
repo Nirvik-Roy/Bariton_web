@@ -131,7 +131,11 @@ const Footer = () => {
                   </li>
                   <li>
                     <span>Email:</span>
+<<<<<<< HEAD
                     loremIpsum@gmail.com
+=======
+                    loremipsum@gmail.com
+>>>>>>> 5aabc9900004ebda676ea737de6e4ce4021510cd
                   </li>
                   <li>
                     <span>Phone:</span>
@@ -152,11 +156,11 @@ const Footer = () => {
             <div className="row align-items-center">
               <div className="col-lg-6 col-md-6 col-sm-6">
                 <p>
-                  Copyright &copy;{currentYear} Bariton. All Rights Reserved{" "}
-                  <a href="https://envytheme.com/" target="_blank">
+                  Copyright &copy;{currentYear} Grue & Bleen. All Rights Reserved{" "}
+                  {/* <a href="https://envytheme.com/" target="_blank">
                     EnvyTheme
-                  </a>
-                  .
+                  </a> */}
+                  
                 </p>
               </div>
 

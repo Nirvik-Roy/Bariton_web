@@ -31,12 +31,9 @@ const AboutUs = () => {
                 data-aos-duration="1000"
                 data-aos-delay="600"
               >
-                <h2>Engaging New Audiences through Smart Approach</h2>
+                <h2>Engaging New Audiences Through Smarter Solutions</h2>
                 <p>
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a passage.
+                  Our solutions are tailored to your goals, ensuring every interaction is impactful, authentic,and growth-driven. With innovation at our core, we transform how brands connect with people.
                 </p>
 
                 <ul className="features-list">

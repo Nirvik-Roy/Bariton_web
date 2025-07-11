@@ -20,12 +20,11 @@ const FeaturedServices = () => {
 
                 <h3>
                   <Link href="/services/details">
-                    Robotic Process Automation
+                    Software Development & Consulting
                   </Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor consectetur adipiscing elit, sed do eiusmod
-                  tempor incididunt ut labore. Ut enim ad minim veniam.
+                  End-to-end solutions from ideation to deployment, tailored to help you unlock digital potential.
                 </p>
               </div>
             </div>
@@ -42,11 +41,10 @@ const FeaturedServices = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Cognitive Automation</Link>
+                  <Link href="/services/details">Robotic Process Automation(RPA)</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor consectetur adipiscing elit, sed do eiusmod
-                  tempor incididunt ut labore. Ut enim ad minim veniam.
+                  Automate routine tasks with precision and intelligence, boosting performance and reliability
                 </p>
               </div>
             </div>
@@ -63,11 +61,10 @@ const FeaturedServices = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Cognitive Engagement</Link>
+                  <Link href="/services/details">ERP & IOT Integration</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor consectetur adipiscing elit, sed do eiusmod
-                  tempor incididunt ut labore. Ut enim ad minim veniam.
+                  Seamlessly connect your enterprise systems and devices using modern ERP and IoT frameworks
                 </p>
               </div>
             </div>

@@ -49,7 +49,7 @@ const NavbarFive = () => {
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand">
                 <Image
-                  src="/images/black-logo.png"
+                  src="/images/gruelogo.png"
                   className="optional-logo"
                   alt="logo"
                   width={149}

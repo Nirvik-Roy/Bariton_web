@@ -26,20 +26,11 @@ const AboutContact = () => {
 
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
-                <h2>Engaging New Audiences Through Smart Approach</h2>
+                <h2>About us</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo.
+                  At Grue & Bleen Technologies Pvt. Ltd., innovation meets expertise. Founded in 2023 in Kolkata, West Bengal, we are a boutique IT company with a mission to translate ideas into cutting-edge digital solutions. From bespoke software development to cognitive automation, workforce solutions, and e-learning platforms, we craft experiences that empower businesses worldwide
                 </p>
-                <p>
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a passage of
-                  Lorem Ipsum, you need to be sure there isn't anything.
-                </p>
+                
               </div>
             </div>
           </div>
@@ -48,11 +39,9 @@ const AboutContact = () => {
             <div className="row justify-content-center">
               <div className="col-lg-4 col-md-6 col-sm-6">
                 <div className="about-text">
-                  <h3>Our History</h3>
+                  <h3>Our Journey</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
+                    Founded in 2023, out IT company began with a simple goal: to bridge the gap between innovative technology and real-world business challenges. Starting as a small team of passionate developers and problem-solvers, we've grown into a trusted partner for organizations seeking smart, scalable digital solutions-from software development to AI, cloud, and automation.
                   </p>
                 </div>
               </div>
@@ -61,23 +50,20 @@ const AboutContact = () => {
                 <div className="about-text">
                   <h3>Our Mission</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
+                    Our mission is to empower business through intelligent technology that drives effieiency, innovation, and growth. We believe in delivering value through customized solutions, agile development, and continuous client collaboration.
                   </p>
                 </div>
               </div>
 
               <div className="col-lg-4 col-md-6 col-sm-6">
                 <div className="about-text">
-                  <h3>Who we are</h3>
+                  <h3>Our Vision</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
+                    Our vision is to become a globally recognized technology partner, leading the future of digital transformation. We aim to create meaningful impact by harnessing emerging technologies to slove complex problems, enhance user experiences, and contribute to a more connected, intelligent world.
                   </p>
                 </div>
               </div>
+              <p>At the heart of our work is a commitment to integrity, innovation, and long-term success-for our clients, our people, and the communities we serve.</p>
             </div>
           </div>
         </div>

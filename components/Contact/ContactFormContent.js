@@ -42,7 +42,7 @@ const ContactFormContent = () => {
               <h2>
                 <span className="number">091637 76777</span>
                 <span className="or">OR</span>
-                <span className="email">loremipsum@gmail.com</span>
+                <span className="email">gnb@gruenbleen.com</span>
               </h2>
 
               <ul className="social">

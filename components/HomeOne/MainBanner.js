@@ -20,7 +20,7 @@ const MainBanner = () => {
                   data-aos-duration="1000"
                   data-aos-delay="100"
                 >
-        Accelerating Business Growth with Smart Machine Learning Solutions.
+        Accelerating Business Growth with any kind of IT solution.
                 </h1>
 
                 <p

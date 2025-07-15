@@ -19,12 +19,12 @@ const FeaturedServices = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">
-                    Software Development & Consulting
+                  <Link href="/services/details/1">
+                    IT Consulting
                   </Link>
                 </h3>
                 <p>
-                  End-to-end solutions from ideation to deployment, tailored to help you unlock digital potential.
+                  Our IT Consulting Services empower businesses to leverage technology effectively, streamline operations, and accelerate growth. We combine industry expertise with innovative strategies to help you solve complex IT challenges and unlock new business opportunities.
                 </p>
               </div>
             </div>
@@ -41,10 +41,10 @@ const FeaturedServices = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Robotic Process Automation(RPA)</Link>
+                  <Link href="/services/details/2">SAP ERP OR SAP Solution</Link>
                 </h3>
                 <p>
-                  Automate routine tasks with precision and intelligence, boosting performance and reliability
+                  We provide end-to-end SAP ERP and SAP Solution services designed to drive operational excellence, improve data visibility, and streamline business processes. Our SAP services are tailored to help you achieve digital transformation.
                 </p>
               </div>
             </div>
@@ -61,10 +61,10 @@ const FeaturedServices = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">ERP & IOT Integration</Link>
+                  <Link href="/services/details/3">Custom Application Development Services Overview</Link>
                 </h3>
                 <p>
-                  Seamlessly connect your enterprise systems and devices using modern ERP and IoT frameworks
+                  We specialize in Custom Application Development, delivering tailored digital solutions that align precisely with your unique business objectives. Our focus is on creating scalable, secure, and innovative applications designed to optimize your processes and drive growth.
                 </p>
               </div>
             </div>

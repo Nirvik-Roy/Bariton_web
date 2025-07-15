@@ -9,10 +9,7 @@ const BlogPost = () => {
         <div className="container">
           <div className="section-title">
             <h2>Our Recent News</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
+            
           </div>
 
           <div className="row justify-content-center">
@@ -46,13 +43,12 @@ const BlogPost = () => {
 
                   <h3>
                     <Link href="/blog/details">
-                      Making Peace With The Feast Or Famine Of Freelancing
+                      AI Related Blog
                     </Link>
                   </h3>
 
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod...
+                   Generative AI tools are becoming everyday business utilities, yet true value comes from proprietary ...
                   </p>
 
                   <Link href="/blog/details" className="learn-more-btn">
@@ -70,7 +66,7 @@ const BlogPost = () => {
             >
               <div className="single-blog-post">
                 <div className="entry-thumbnail">
-                  <Link href="/blog/details">
+                  <Link href="/blog/details2">
                     <Image
                       src="/images/blog/blog2.jpg"
                       alt="image"
@@ -91,16 +87,15 @@ const BlogPost = () => {
                   </div>
 
                   <h3>
-                    <Link href="/blog/details">
-                      I Used The Web For A Day On A 50 MB Budget
+                    <Link href="/blog/details2">
+                      Solar Related Blog
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod...
+                    Explore how IT solutions enhance solar energy utilization in homes and businesses...
                   </p>
 
-                  <Link href="/blog/details" className="learn-more-btn">
+                  <Link href="/blog/details2" className="learn-more-btn">
                     Read More <i className="flaticon-add"></i>
                   </Link>
                 </div>
@@ -115,7 +110,7 @@ const BlogPost = () => {
             >
               <div className="single-blog-post">
                 <div className="entry-thumbnail">
-                  <Link href="/blog/details">
+                  <Link href="/blog/details3">
                     <Image
                       src="/images/blog/blog3.jpg"
                       alt="image"
@@ -136,16 +131,15 @@ const BlogPost = () => {
                   </div>
 
                   <h3>
-                    <Link href="/blog/details">
-                      Here are the 5 most telling signs of micromanagement
+                    <Link href="/blog/details3">
+                     IT Related Blog
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod...
+                   IT often focus on topics like trending technologies AI, machine learning, cloud ...
                   </p>
 
-                  <Link href="/blog/details" className="learn-more-btn">
+                  <Link href="/blog/details3" className="learn-more-btn">
                     Read More <i className="flaticon-add"></i>
                   </Link>
                 </div>

@@ -153,12 +153,12 @@ const NavbarSix = () => {
                     <span>1</span>
                   </Link> */}
 
-                  <div className="option-item">
+                  {/* <div className="option-item">
                     <i
                       className="search-btn flaticon-search"
                       onClick={handleToggleSearchModal}
                     ></i>
-                  </div>
+                  </div> */}
 
                   {/* <Link href="/contact" className="btn btn-primary">
                     Schedule a Demo

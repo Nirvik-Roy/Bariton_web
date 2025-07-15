@@ -11,61 +11,14 @@ const ServicesContent = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-services-box">
                 <div className="icon">
-                  <i className="flaticon-income"></i>
+                  <i className="flaticon-gear"></i>
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Software Development & Consulting</Link>
+                  <Link href="/services/details/1">IT Consulting</Link>
                 </h3>
                 <p>
-                  End to end solutions from ideation to deployment, tailored to help you unlock digital potential.
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-sm-6">
-              <div className="single-services-box">
-                <div className="icon">
-                  <i className="flaticon-automatic"></i>
-                </div>
-
-                <h3>
-                  <Link href="/services/details">Robotic Process Automation (RPA) & Cognitive Automation</Link>
-                </h3>
-                <p>
-                  Automate routine tasks with precision and intelligence, boosting performance and reliability .
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-sm-6">
-              <div className="single-services-box">
-                <div className="icon">
-                  <i className="flaticon-locked"></i>
-                </div>
-
-                <h3>
-                  <Link href="/services/details">Cognitive Engagement</Link>
-                </h3>
-                <p>
-                  Enhance customer and employee interactions using AI-driven tools and platforms .
-                </p>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-sm-6">
-              <div className="single-services-box">
-                <div className="icon">
-                  <i className="flaticon-molecular"></i>
-                </div>
-
-                <h3>
-                  <Link href="/services/details">
-                    ERP & IoT Integration
-                  </Link>
-                </h3>
-                <p>
-                  Seamlessly connect your enterprise systems and devices using modern ERP and IoT frameworks .
+                  Our IT Consulting Services empower businesses to leverage technology effectively, streamline operations, and accelerate growth. We combine industry expertise with innovative strategies to help you solve complex IT challenges and unlock new business opportunities.
                 </p>
               </div>
             </div>
@@ -77,10 +30,10 @@ const ServicesContent = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Workforce Solutions</Link>
+                  <Link href="/services/details/2">SAP ERP OR SAP Solution</Link>
                 </h3>
                 <p>
-                  From recruitment support to management tools, streamline your human capital operations .
+                  We provide end-to-end SAP ERP and SAP Solution services designed to drive operational excellence, improve data visibility, and streamline business processes. Our SAP services are tailored to help you achieve digital transformation.
                 </p>
               </div>
             </div>
@@ -88,15 +41,14 @@ const ServicesContent = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-services-box">
                 <div className="icon">
-                  <i className="flaticon-ceo"></i>
+                  <i className="flaticon-gear"></i>
                 </div>
 
                 <h3>
-                  <Link href="/services/details">E Learning Platform Development
-</Link>
+                  <Link href="/services/details/3">Custom Application Development Services Overview</Link>
                 </h3>
                 <p>
-                 Engage learners with interactive digital education platforms aimed at long term skill development.
+                  We specialize in Custom Application Development, delivering tailored digital solutions that align precisely with your unique business objectives. Our focus is on creating scalable, secure, and innovative applications designed to optimize your processes and drive growth.
                 </p>
               </div>
             </div>
@@ -104,14 +56,16 @@ const ServicesContent = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-services-box">
                 <div className="icon">
-                  <i className="fas fa-database"></i>
+                  <i className="flaticon-gear"></i>
                 </div>
 
                 <h3>
-                  <Link href="/services/details">AI-Powered Chatbots </Link>
+                  <Link href="/services/details/4">
+                    Cyber Security
+                  </Link>
                 </h3>
                 <p>
-                 Enhance customer support with 24/7 intelligent conversational agents.
+                 Cyber Security.
                 </p>
               </div>
             </div>
@@ -119,14 +73,14 @@ const ServicesContent = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-services-box">
                 <div className="icon">
-                  <i className="fas fa-chart-line"></i>
+                  <i className="flaticon-gear"></i>
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Custom ML Model Development </Link>
+                  <Link href="/services/details/5">CCTV Surveillance system</Link>
                 </h3>
                 <p>
-                Build tailored models to solve your specific business challenges.
+                  We provide comprehensive CCTV surveillance system to ensure the security of IT infrastructure, protect sensitive data, and maintain a safe working environment.
                 </p>
               </div>
             </div>
@@ -134,14 +88,60 @@ const ServicesContent = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="single-services-box">
                 <div className="icon">
-                  <i className="fas fa-project-diagram"></i>
+                  <i className="flaticon-gear"></i>
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Fraud Detection & Risk Management </Link>
+                  <Link href="/services/details/6">IT staff augmentation
+                  </Link>
                 </h3>
                 <p>
-                  Secure your operations with intelligent threat analysis.
+                  We provide services enable companies to swiftly scale their technical teams by integrating external professionals. This approach offers flexibility, cost-effectiveness.
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 col-sm-6">
+              <div className="single-services-box">
+                <div className="icon">
+                  <i className="flaticon-gear"></i>
+                </div>
+
+                <h3>
+                  <Link href="/services/details/7">Business consulting</Link>
+                </h3>
+                <p>
+                  We provide objective insight, specialized knowledge, and tactical support. Consultants analyze your organization, identify problems and opportunities, and collaborate with your team to implement solutions that enhance performance, streamline operations, and growth.
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 col-sm-6">
+              <div className="single-services-box">
+                <div className="icon">
+                  <i className="flaticon-gear"></i>
+                </div>
+
+                <h3>
+                  <Link href="/services/details/8">IT Infrastructure </Link>
+                </h3>
+                <p>
+                  We providing the backbone for delivering reliable, secure, and scalable services.
+                </p>
+              </div>
+            </div>
+
+            <div className="col-lg-4 col-sm-6">
+              <div className="single-services-box">
+                <div className="icon">
+                  <i className="flaticon-gear"></i>
+                </div>
+
+                <h3>
+                  <Link href="/services/details/9">Solar System and BMS  </Link>
+                </h3>
+                <p>
+                We Offers comprehensive solar solutions including consultancy, installation, maintenance, and panel cleaning.
                 </p>
               </div>
             </div>

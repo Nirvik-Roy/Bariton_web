@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import Image from "next/image"; 
+import Image from "next/image";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -68,19 +68,19 @@ const Footer = () => {
 
                 <ul className="footer-services-list">
                   <li>
-                    <Link href="/services/details">Product Engineering</Link>
+                    <Link href="/services/details/1">IT Consulting</Link>
                   </li>
                   <li>
-                    <Link href="/services/details">UX/UI Design</Link>
+                    <Link href="/services/details/2">SAP ERP OR SAP Solution</Link>
                   </li>
                   <li>
-                    <Link href="/services/details">Big Data Analysis</Link>
+                    <Link href="/services/details/3">Custom Application Development Services </Link>
                   </li>
                   <li>
-                    <Link href="/services/details">Desktop Applications</Link>
+                    <Link href="/services/details/4">Cyber Security</Link>
                   </li>
                   <li>
-                    <Link href="/services/details">Mobile Applications</Link>
+                    <Link href="/services/details/5">CCTV Surveillance system</Link>
                   </li>
                 </ul>
               </div>
@@ -127,7 +127,7 @@ const Footer = () => {
                 <ul className="footer-contact-list">
                   <li>
                     <span>Address:</span>
-                   GROUND FLOOR, FLAT – G/F, GROUND FLOOR, “NIGHAM SMRITI APARTMENT” 175/1, BLOCK A, Bangur Ave, Kolkata, West Bengal 700055
+                    FLAT – G/F, GROUND FLOOR, “NIGHAM SMRITI APARTMENT” 175/1, BLOCK A, Bangur Ave, Kolkata, West Bengal 700055
                   </li>
                   <li>
                     <span>Email:</span>
@@ -135,7 +135,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <span>Phone:</span>
-                 091637 76777
+                    091637 76777
                   </li>
                   {/* <li>
                     <span>Fax:</span>
@@ -156,7 +156,7 @@ const Footer = () => {
                   {/* <a href="https://envytheme.com/" target="_blank">
                     EnvyTheme
                   </a> */}
-                  
+
                 </p>
               </div>
 

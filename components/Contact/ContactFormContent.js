@@ -10,10 +10,7 @@ const ContactFormContent = () => {
           <div className="section-title">
             <span>Message Us</span>
             <h2>Drop us Message for any Query</h2>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
+           
           </div>
 
           <div className="contact-form">

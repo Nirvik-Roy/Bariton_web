@@ -29,13 +29,13 @@ export default function AboutUs() {
 
       <Team />
 
-      <PartnerContent />
+      {/* <PartnerContent /> */}
 
       <FeedbackSlider />
 
       <PricingCard />
 
-      <FreeTrialForm />
+      {/* <FreeTrialForm /> */}
 
       <Footer />
     </>

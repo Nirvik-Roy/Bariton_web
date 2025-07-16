@@ -28,7 +28,7 @@ const BlogDetailsContent3 = () => {
                                         </ul>
                                     </div>
 
-                                    <h2>IT Related Blog</h2>
+                                    <h2>It Innovations</h2>
 
                                     <p>
                                         IT often focus on topics like trending technologies AI, machine learning, cloud computing innovations, cybersecurity trends, and software development. IT can also include product reviews, tips for remote work, new SaaS solutions, and guides for maintaining tech systems. By providing valuable, informative content, IT companies establish themselves as thought leaders in their, building trust and credibility with potential clients.

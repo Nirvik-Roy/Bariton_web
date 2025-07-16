@@ -36,10 +36,10 @@ const BlogSidebar = () => {
               ></span>
             </Link>
             <div className="info">
-              <time>March 15, 2023</time>
+              <time>July 10, 2025</time>
               <h4 className="title usmall">
                 <Link href="/blog/details">
-                  The Best Marketing top use Management Tools
+                 The ethics of AI
                 </Link>
               </h4>
             </div>
@@ -48,7 +48,7 @@ const BlogSidebar = () => {
           </article>
 
           <article className="item">
-            <Link href="/blog/details" className="thumb">
+            <Link href="/blog/details2" className="thumb">
               <span
                 className="fullimage cover"
                 role="img"
@@ -58,10 +58,10 @@ const BlogSidebar = () => {
               ></span>
             </Link>
             <div className="info">
-              <time>March 16, 2023</time>
+              <time>July 10, 2025</time>
               <h4 className="title usmall">
-                <Link href="/blog/details">
-                  Top 21 Must-Read Blogs For Creative Agencies
+                <Link href="/blog/details2">
+                  Solar Energy
                 </Link>
               </h4>
             </div>
@@ -70,7 +70,7 @@ const BlogSidebar = () => {
           </article>
 
           <article className="item">
-            <Link href="/blog/details" className="thumb">
+            <Link href="/blog/details3" className="thumb">
               <span
                 className="fullimage cover"
                 role="img"
@@ -80,10 +80,10 @@ const BlogSidebar = () => {
               ></span>
             </Link>
             <div className="info">
-              <time>March 17, 2023</time>
+              <time>July 10, 2025</time>
               <h4 className="title usmall">
-                <Link href="/blog/details">
-                  Protect your workplace from cyber attacks
+                <Link href="/blog/details3">
+                It Innovations
                 </Link>
               </h4>
             </div>

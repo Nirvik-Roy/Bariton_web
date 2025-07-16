@@ -28,7 +28,7 @@ const BlogDetailsContent = () => {
                     </ul>
                   </div>
 
-                  <h2>AI Related Blog</h2>
+                  <h2>The ethics of AI</h2>
 
                   <p>
                     Generative AI tools are becoming everyday business utilities, yet true value comes from proprietary fine tuning, integration. AI isn't here to replace humans—it’s a powerful collaborator. And also AI expansion continues beyond software—it’s reshaping data centers and chip design. Massive infrastructure investments, like the Stargate initiative, aim to build next-gen compute capacity.

@@ -23,7 +23,7 @@ const FeedbackSlider = () => {
               <div className="row m-0">
                 <div className="col-lg-6 col-md-12 p-0">
                   <div className="feedback-item">
-                    <p>Grue & Bleen Technologies exceeded our expectations. Their team delivered a complex solution on time, with great attention to detail and seamless communication throughout the project. From software development to development, their team has been a true partner in our digital transformation journey.</p>
+                    <p>Grue & Bleen Technologies exceeded our expectations. Their team delivered a complex solution on time, with great attention to detail and seamless communication throughout the project.</p>
 
 
 
@@ -37,7 +37,7 @@ const FeedbackSlider = () => {
                         />
                       </div>
 
-                      <h3>Filip Luis</h3>
+                      <h3>Pratul Patel</h3>
                       <span>Founder & CEO</span>
                     </div>
                   </div>
@@ -79,8 +79,8 @@ const FeedbackSlider = () => {
                         />
                       </div>
 
-                      <h3>Sarah Taylor</h3>
-                      <span>Designer</span>
+                      <h3>Sonakshi Roy</h3>
+                         <span>Founder & CEO</span>
                     </div>
                   </div>
                 </div>
@@ -124,8 +124,8 @@ const FeedbackSlider = () => {
                         />
                       </div>
 
-                      <h3>Sarah Taylor</h3>
-                      <span>Designer</span>
+                      <h3>Sania Bharti</h3>
+                        <span>Founder & CEO</span>
                     </div>
                   </div>
                 </div>

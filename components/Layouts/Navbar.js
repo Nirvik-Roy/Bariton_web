@@ -45,7 +45,7 @@ const Navbar = () => {
     <>
       <div id="navbar" className="navbar-area">
         <div className="main-nav">
-          <div className="container-fluid">
+          <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand">
                 <Image
@@ -103,7 +103,7 @@ const Navbar = () => {
                           }`}
                       // onClick={(e) => e.preventDefault()}
                     >
-                      Pages
+                     About Us
                     </Link>
 
                     

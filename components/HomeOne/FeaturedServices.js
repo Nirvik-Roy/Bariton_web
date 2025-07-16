@@ -35,7 +35,7 @@ const FeaturedServices = () => {
               data-aos-duration="1000"
               data-aos-delay="400"
             >
-              <div className="single-featured-services-box active">
+              <div className="single-featured-services-box ">
                 <div className="icon">
                   <i className="flaticon-artificial-intelligence"></i>
                 </div>

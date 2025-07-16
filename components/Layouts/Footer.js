@@ -108,9 +108,9 @@ const Footer = () => {
                   <li>
                     <Link href="/services">Services</Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/pricing">Pricing</Link>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -161,12 +161,14 @@ const Footer = () => {
               </div>
 
               <div className="col-lg-6 col-md-6 col-sm-6">
-                <ul>
+                <ul style={{
+                  cursor:'pointer'
+                }}>
                   <li>
-                    <Link href="/privacy-policy">Privacy Policy</Link>
+                    <a >Privacy Policy</a>
                   </li>
                   <li>
-                    <Link href="/terms-conditions">Terms & Conditions</Link>
+                    <a >Terms & Conditions</a>
                   </li>
                 </ul>
               </div>

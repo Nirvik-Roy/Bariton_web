@@ -28,7 +28,7 @@ const BlogDetailsContent2 = () => {
                                         </ul>
                                     </div>
 
-                                    <h2>Solar Related Blog</h2>
+                                    <h2>Solar Energy</h2>
 
                                     <p>
                                         Explore how IT solutions enhance solar energy utilization in homes and businesses.     And highlight how software and data analytics can optimize solar system performance, predict energy generation, and manage storage. Also address the growing need to protect connected solar infrastructure from cyber threats.

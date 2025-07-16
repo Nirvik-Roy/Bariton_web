@@ -27,13 +27,13 @@ const BlogThreeGrid = () => {
                       <li>
                         <Link href="#">Admin</Link>
                       </li>
-                      <li>March 10, 2023</li>
+                      <li>July 10, 2025</li>
                     </ul>
                   </div>
 
                   <h3>
                     <Link href="/blog/details">
-                     AI Related Blog
+                    The ethics of AI
                     </Link>
                   </h3>
 
@@ -67,13 +67,13 @@ const BlogThreeGrid = () => {
                       <li>
                         <Link href="#">Admin</Link>
                       </li>
-                      <li>March 11, 2023</li>
+                            <li>July 10, 2025</li>
                     </ul>
                   </div>
 
                   <h3>
                     <Link href="/blog/details2">
-                     Solar Related Blog
+                     Solar Energy
                     </Link>
                   </h3>
                   <p>
@@ -106,13 +106,13 @@ const BlogThreeGrid = () => {
                       <li>
                         <Link href="#">Admin</Link>
                       </li>
-                      <li>March 12, 2023</li>
+                      <li>July 10, 2025</li>
                     </ul>
                   </div>
 
                   <h3>
                     <Link href="/blog/details3">
-                    IT Related Blog
+                    It Innovations
                     </Link>
                   </h3>
                   <p>

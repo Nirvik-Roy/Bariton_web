@@ -96,7 +96,7 @@ const NavbarFour = () => {
                           }`}
                       // onClick={(e) => e.preventDefault()}
                     >
-                      Pages
+                   About Us
                     </Link>
 
                     

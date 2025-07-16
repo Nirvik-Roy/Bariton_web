@@ -96,7 +96,7 @@ const NavbarThree = () => {
                           }`}
                       // onClick={(e) => e.preventDefault()}
                     >
-                      Pages
+                      About Us
                     </Link>
 
                     

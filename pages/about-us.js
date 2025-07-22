@@ -29,7 +29,7 @@ export default function AboutUs() {
 
       <Team />
 
-      {/* <PartnerContent /> */}
+      <PartnerContent />
 
       <FeedbackSlider />
 

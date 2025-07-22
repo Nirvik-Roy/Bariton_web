@@ -24,7 +24,7 @@ export default function Home() {
 
       <Webinar />
 
-      {/* <PartnerContent /> */}
+      <PartnerContent />
          <div style={{
           paddingBottom:'100px'
          }}></div>

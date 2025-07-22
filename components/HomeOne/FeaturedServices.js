@@ -20,11 +20,11 @@ const FeaturedServices = () => {
 
                 <h3>
                   <Link href="/services/details/1">
-                    IT Consulting
+                  On-Time, On-Budget Delivery
                   </Link>
                 </h3>
                 <p>
-                  Our IT Consulting Services empower businesses to leverage technology effectively, streamline operations, and accelerate growth. We combine industry expertise with innovative strategies to help you solve complex IT challenges and unlock new business opportunities.
+                We pride ourselves on delivering projects within the agreed timeline and budget, without compromising on quality.
                 </p>
               </div>
             </div>
@@ -41,10 +41,10 @@ const FeaturedServices = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details/2">SAP ERP OR SAP Solution</Link>
+                  <Link href="/services/details/2">End-to-End Solutions</Link>
                 </h3>
                 <p>
-                  We provide end-to-end SAP ERP and SAP Solution services designed to drive operational excellence, improve data visibility, and streamline business processes. Our SAP services are tailored to help you achieve digital transformation.
+                We provide comprehensive IT services — from strategy and consulting to development, deployment, and support — under one roof.
                 </p>
               </div>
             </div>
@@ -61,10 +61,10 @@ const FeaturedServices = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details/3">Custom Application Development Services Overview</Link>
+                  <Link href="/services/details/3">Post-Launch Support & Maintenance</Link>
                 </h3>
                 <p>
-                  We specialize in Custom Application Development, delivering tailored digital solutions that align precisely with your unique business objectives. Our focus is on creating scalable, secure, and innovative applications designed to optimize your processes and drive growth.
+                We don’t just deliver and leave — our robust support services ensure your IT systems keep performing at their best.
                 </p>
               </div>
             </div>

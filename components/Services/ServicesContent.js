@@ -65,7 +65,7 @@ const ServicesContent = () => {
                   </Link>
                 </h3>
                 <p>
-                 Cyber Security.
+                We provide comprehensive cybersecurity service ensuring compliance, and maintaining operational resilience. 
                 </p>
               </div>
             </div>

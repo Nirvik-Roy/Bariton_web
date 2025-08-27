@@ -26,10 +26,11 @@ const AboutContact = () => {
 
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
-                <h2>About us</h2>
+                <h2>🌐 Who We Are</h2>
                 <p>
-                  At Grue & Bleen Technologies Pvt. Ltd., innovation meets expertise. Founded in 2023 in Kolkata, West Bengal, we are a boutique IT company with a mission to translate ideas into cutting-edge digital solutions. From bespoke software development to cognitive automation, workforce solutions, and e-learning platforms, we craft experiences that empower businesses worldwide
+                  Grue and Bleen Technologies Pvt. Ltd. is a future-focused IT and engineering services company headquartered in India. With a commitment to driving innovation, efficiency, and sustainability, we offer transformative solutions across ERP, IoT, software development, staff augmentation, and renewable energy consulting.
                 </p>
+                <p>We believe in making technology accessible, scalable, and meaningful for both enterprises and government institutions.</p>
                 
               </div>
             </div>
@@ -48,18 +49,18 @@ const AboutContact = () => {
 
               <div className="col-lg-4 col-md-6 col-sm-6">
                 <div className="about-text">
-                  <h3>Our Mission</h3>
+                  <h3>🎯 Our Mission</h3>
                   <p>
-                    Our mission is to empower business through intelligent technology that drives effieiency, innovation, and growth. We believe in delivering value through customized solutions, agile development, and continuous client collaboration.
+                    To empower organizations with reliable, cost-effective, and intelligent solutions that simplify operations, automate processes, and drive sustainable growth.
                   </p>
                 </div>
               </div>
 
               <div className="col-lg-4 col-md-6 col-sm-6">
                 <div className="about-text">
-                  <h3>Our Vision</h3>
+                  <h3>👁️ Our Vision</h3>
                   <p>
-                    Our vision is to become a globally recognized technology partner, leading the future of digital transformation. We aim to create meaningful impact by harnessing emerging technologies to slove complex problems, enhance user experiences, and contribute to a more connected, intelligent world.
+                    To become a trusted global partner in enabling digital transformation and intelligent infrastructure for communities, industries, and governments.
                   </p>
                 </div>
               </div>

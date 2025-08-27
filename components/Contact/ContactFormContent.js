@@ -9,10 +9,9 @@ const ContactFormContent = () => {
         <div className="container">
           <div className="section-title">
             <span>Message Us</span>
-            <h2>Drop us Message for any Query</h2>
+            <h2>Let's Build Something Great Together</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Have a project in mind or looking for a reliable tech partner? We're just a message away. Whether you're a startup, enterprise, or government body, our team is here to listen, advise, and deliver. 
             </p>
           </div>
 
@@ -38,12 +37,17 @@ const ContactFormContent = () => {
           {/* Contact info */}
           <div className="contact-info">
             <div className="contact-info-content">
-              <h3>Contact us by Phone Number or Email Address</h3>
+              <h3>📬 Reach Out</h3>
+              <h3>Grue and Bleen Technologies Pvt. Ltd.</h3>
               <h2>
-                <span className="number">+088 130 629 8615</span>
+                <span className="number">📞 +91-XXXXXXXXXX</span>
                 <span className="or">OR</span>
-                <span className="email">loremipsum@gmail.com</span>
+                <span className="email">✉️ info@gruebleen.com</span>
               </h2>
+
+              <h3 style={{marginTop:"20px"}}>Business Hours:</h3>
+              <h3>Monday to Saturday: 9:30 AM - 7:00 PM IST</h3>
+              <h3>Sunday: Closed</h3>
 
               <ul className="social">
                 <li>

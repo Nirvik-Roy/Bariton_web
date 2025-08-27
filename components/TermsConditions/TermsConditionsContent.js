@@ -1,97 +1,76 @@
-import React from "react"; 
+import React from "react";
 
 const TermsConditionsContent = () => {
   return (
     <>
       <div className="text-container ptb-110">
         <div className="container">
-          <h4>What is Lorem Ipsum?</h4>
+          <h4>Effective Date: 27-08-2025</h4>
+          <p>
+            These Terms & Conditions (“Terms”) govern your access to and use of
+            the website and services provided by Grue and Bleen Technologies
+            Pvt. Ltd. (“Company,” “we,” “our,” or “us”). By accessing or using
+            our website, you agree to be bound by these Terms.
+          </p>
+          <h4>1. Use of Website</h4>
 
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged. It was popularised in the 1960s
-            with the release of Letraset sheets containing Lorem Ipsum passages,
-            and more recently with desktop publishing software like Aldus
-            PageMaker including versions of Lorem Ipsum.
+            You may use this website for lawful purposes only. You agree not to:
+            - Use the site for any fraudulent or unlawful activity - Attempt to
+            gain unauthorized access to our systems - Copy, modify, or
+            distribute any content without permission
           </p>
 
-          <h4>Where does it come from?</h4>
+          <h4>2. Intellectual Property</h4>
           <p>
-            Contrary to popular belief, Lorem Ipsum is not simply random text.
-            It has roots in a piece of classical Latin literature from 45 BC,
-            making it over 2000 years old. Richard McClintock, a Latin professor
-            at Hampden-Sydney College in Virginia, looked up one of the more
-            obscure Latin words, consectetur, from a Lorem Ipsum passage, and
-            going through the cites of the word in classical literature,
-            discovered the undoubtable source. Lorem Ipsum comes from sections
-            1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes
-            of Good and Evil) by Cicero, written in 45 BC. This book is a
-            treatise on the theory of ethics, very popular during the
-            Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit
-            amet..".
+            All content, including text, images, code, and branding on this
+            site, is the intellectual property of Grue and Bleen Technologies
+            Pvt. Ltd. You may not reproduce, republish, or distribute any
+            content without prior written consent.
           </p>
 
+          <h4>3. Disclaimers</h4>
+          <ul>
+            <li>
+              All content is provided for general information only and does not
+              constitute professional advice.
+            </li>
+            <li>
+              We do not guarantee that our website will be error-free,
+              uninterrupted, or free from viruses.
+            </li>
+            <li>Use of the website is at your own risk.</li>
+          </ul>
+
+          <h4>4. Limitation of Liability</h4>
           <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-            quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-            aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
-            eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est,
-            qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore
-            magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
-            nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut
-            aliquid ex ea commodi consequatur? Quis autem vel eum iure
-            reprehenderit qui in ea voluptate velit esse quam nihil molestiae
-            consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla
+            To the maximum extent permitted by law, we are not liable for any
+            direct, indirect, incidental, or consequential damages arising from
+            your use of or inability to use the site or services.
           </p>
 
-          <h4>Where can I get some?</h4>
+          <h4>5. Third-Party Links</h4>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim.
+            Our website may contain links to third-party websites. We are not
+            responsible for their content or privacy practices.
           </p>
-
+          <h4>6. User Submissions</h4>
           <p>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don't look even slightly
-            believable. If you are going to use a passage of Lorem Ipsum, you
-            need to be sure there isn't anything embarrassing hidden in the
-            middle of text. All the Lorem Ipsum generators on the Internet tend
-            to repeat predefined chunks as necessary, making this the first true
-            generator on the Internet. It uses a dictionary of over 200 Latin
-            words, combined with a handful of model sentence structures, to
-            generate Lorem Ipsum which looks reasonable. The generated Lorem
-            Ipsum is therefore always free from repetition, injected.
+            If you submit inquiries, feedback, or resumes via our contact or
+            careers forms, you grant us permission to store and use the
+            information for business purposes. We do not sell your data.
           </p>
-
+          <h4>7. Governing Law</h4>
           <p>
-            But I must explain to you how all this mistaken idea of denouncing
-            pleasure and praising pain was born and I will give you a complete
-            account of the system, and expound the actual teachings of the great
-            explorer of the truth, the master-builder of human happiness. No one
-            rejects, dislikes, or avoids pleasure itself, because it is
-            pleasure, but because those who do not know how to pursue pleasure
-            rationally encounter consequences that are extremely painful. Nor
-            again is there anyone who loves or pursues or desires to obtain pain
-            of itself, because it is pain, but because occasionally
-            circumstances occur in which toil and pain can procure him some
-            great pleasure. To take a trivial example, which of us ever
-            undertakes laborious physical exercise, except to obtain some
-            advantage from it? But who has any right to find fault with a man
-            who chooses to enjoy a pleasure that has no annoying consequences,
-            or one who avoids a pain that produces no resultant pleasure?
+            These Terms shall be governed by the laws of India. Any disputes
+            shall be subject to the exclusive jurisdiction of the courts in
+            [Insert City, e.g., Jamshedpur].
+          </p>
+          <h4>8. Modifications to Terms</h4>
+          <p>
+            We reserve the right to update or modify these Terms at any time
+            without notice. Continued use of the site constitutes your
+            acceptance of any changes.
           </p>
         </div>
       </div>

@@ -64,7 +64,7 @@ const AboutContact = () => {
                   </p>
                 </div>
               </div>
-              <p>At the heart of our work is a commitment to integrity, innovation, and long-term success-for our clients, our people, and the communities we serve.</p>
+              {/* <p>At the heart of our work is a commitment to integrity, innovation, and long-term success-for our clients, our people, and the communities we serve.</p> */}
             </div>
           </div>
         </div>

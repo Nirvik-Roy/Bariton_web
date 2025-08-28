@@ -1,3 +1,4 @@
+
 import React from "react";
 import ContactForm from "../Contact/ContactForm";
 import Image from "next/image";
@@ -7,10 +8,9 @@ const FaqForm = () => {
     <>
       <div className="faq-contact">
         <div className="section-title">
-          <h2>Do You Have Any Questions</h2>
+          <h2>Didn't find what you're looking for?</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            📩 Email us at support@gruebleen.com or Contact Us
           </p>
         </div>
 

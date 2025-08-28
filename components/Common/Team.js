@@ -7,8 +7,10 @@ const Team = () => {
       <section className="team-area ptb-110">
         <div className="container">
           <div className="section-title">
-            <h2>Meet Our Team</h2>
-           
+            <h2>👨‍💻 Our Team</h2>
+            <p>
+              Our multi-disciplinary team includes: - SAP-certified consultants (ABAP, BW/4HANA, MDG, etc.) - Web and mobile developers (React.js, Node.js, Android) - Embedded engineers and IoT specialists - Project managers and technical consultants with real-world implementation experience
+            </p>
           </div>
 
           <div className="row justify-content-center">

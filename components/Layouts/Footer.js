@@ -162,13 +162,13 @@ const Footer = () => {
 
               <div className="col-lg-6 col-md-6 col-sm-6">
                 <ul style={{
-                  cursor:'pointer'
+                  cursor: 'pointer'
                 }}>
                   <li>
-                    <a >Privacy Policy</a>
+                    <Link href="/privacy-policy">Privacy Policy</Link>
                   </li>
                   <li>
-                    <a >Terms & Conditions</a>
+                    <Link href="/terms-conditions">Terms & Conditions</Link>
                   </li>
                 </ul>
               </div>

@@ -10,6 +10,7 @@
     "author": "EnvyTheme.com",
     "license": "ISC",
     "dependencies": {
+        "@tailwindcss/vite": "^4.1.12",
         "aos": "^2.3.4",
         "axios": "^1.6.7",
         "fslightbox-react": "^1.7.6",
@@ -24,5 +25,10 @@
         "sweetalert2": "^11.10.5",
         "sweetalert2-react-content": "^5.0.7",
         "swiper": "^11.0.6"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.21",
+        "postcss": "^8.5.6",
+        "tailwindcss": "^4.1.12"
     }
 }

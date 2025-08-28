@@ -6,7 +6,7 @@ const BlogSidebar = () => {
     <>
       <div className="widget-area" id="secondary">
         {/* Search form */}
-        <div className="widget widget_search">
+        {/* <div className="widget widget_search">
           <form className="search-form">
             <label>
               <input
@@ -19,7 +19,7 @@ const BlogSidebar = () => {
               <i className="fas fa-search"></i>
             </button>
           </form>
-        </div>
+        </div> */}
 
         {/* Popular posts */}
         <div className="widget widget_posts_thumb">
@@ -36,10 +36,10 @@ const BlogSidebar = () => {
               ></span>
             </Link>
             <div className="info">
-              <time>March 15, 2023</time>
+              <time>July 10, 2025</time>
               <h4 className="title usmall">
                 <Link href="/blog/details">
-                  The Best Marketing top use Management Tools
+                 The ethics of AI
                 </Link>
               </h4>
             </div>
@@ -48,7 +48,7 @@ const BlogSidebar = () => {
           </article>
 
           <article className="item">
-            <Link href="/blog/details" className="thumb">
+            <Link href="/blog/details2" className="thumb">
               <span
                 className="fullimage cover"
                 role="img"
@@ -58,10 +58,10 @@ const BlogSidebar = () => {
               ></span>
             </Link>
             <div className="info">
-              <time>March 16, 2023</time>
+              <time>July 10, 2025</time>
               <h4 className="title usmall">
-                <Link href="/blog/details">
-                  Top 21 Must-Read Blogs For Creative Agencies
+                <Link href="/blog/details2">
+                  Solar Energy
                 </Link>
               </h4>
             </div>
@@ -70,7 +70,7 @@ const BlogSidebar = () => {
           </article>
 
           <article className="item">
-            <Link href="/blog/details" className="thumb">
+            <Link href="/blog/details3" className="thumb">
               <span
                 className="fullimage cover"
                 role="img"
@@ -80,10 +80,10 @@ const BlogSidebar = () => {
               ></span>
             </Link>
             <div className="info">
-              <time>March 17, 2023</time>
+              <time>July 10, 2025</time>
               <h4 className="title usmall">
-                <Link href="/blog/details">
-                  Protect your workplace from cyber attacks
+                <Link href="/blog/details3">
+                It Innovations
                 </Link>
               </h4>
             </div>
@@ -93,7 +93,7 @@ const BlogSidebar = () => {
         </div>
 
         {/* Recent posts */}
-        <div className="widget widget_recent_entries">
+        {/* <div className="widget widget_recent_entries">
           <h3 className="widget-title">Recent posts</h3>
 
           <ul>
@@ -128,10 +128,10 @@ const BlogSidebar = () => {
               <span className="post-date">March 19, 2023</span>
             </li>
           </ul>
-        </div>
+        </div> */}
 
         {/* Categories */}
-        <div className="widget widget_categories">
+        {/* <div className="widget widget_categories">
           <h3 className="widget-title">Categories</h3>
 
           <ul>
@@ -151,10 +151,10 @@ const BlogSidebar = () => {
               <Link href="#">Uncategorized</Link>
             </li>
           </ul>
-        </div>
+        </div> */}
 
         {/* Tags */}
-        <div className="widget widget_tag_cloud">
+        {/* <div className="widget widget_tag_cloud">
           <h3 className="widget-title">Tags</h3>
 
           <div className="tagcloud">
@@ -190,7 +190,7 @@ const BlogSidebar = () => {
               Tips <span className="tag-link-count">(2)</span>
             </Link>
           </div>
-        </div>
+        </div> */}
       </div>
     </>
   );

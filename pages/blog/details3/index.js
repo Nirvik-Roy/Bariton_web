@@ -1,27 +1,27 @@
 import React from "react";
 import NavbarTwo from "../../../components/Layouts/NavbarTwo";
 import PageBanner from "../../../components/Common/PageBanner";
-import ServiceDetailsContent from "../../../components/Services/ServiceDetailsContent";
+import BlogDetailsContent3 from "../../../components/Blog/BlogDetailsContent3";
 import Footer from "../../../components/Layouts/Footer";
 
-const ServiceDetails = () => {
+const BlogDetails = () => {
   return (
     <>
       <NavbarTwo />
 
       <PageBanner
-        pageTitle="Security & Surveillance"
+        pageTitle="Blog Details"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Service Details"
-        bgImg="/images/page-title-bg2.jpg"
+        activePageText="Blog Details"
+        bgImg="/images/page-title-bg3.jpg"
       />
 
-      <ServiceDetailsContent />
+      <BlogDetailsContent3 />
 
       <Footer />
     </>
   );
 };
 
-export default ServiceDetails;
+export default BlogDetails;

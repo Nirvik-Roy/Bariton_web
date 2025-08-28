@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import Image from "next/image"; 
+import Image from "next/image";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -25,11 +25,11 @@ const Footer = () => {
                       height={37}
                     />
                   </Link>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore magna
                     aliqua. Ut enim ad minim veniam, quis nostrud.
-                  </p>
+                  </p> */}
                 </div>
 
                 <ul className="social">
@@ -68,19 +68,19 @@ const Footer = () => {
 
                 <ul className="footer-services-list">
                   <li>
-                    <Link href="/services/details">Product Engineering</Link>
+                    <Link href="/services/details/1">IT Consulting</Link>
                   </li>
                   <li>
-                    <Link href="/services/details">UX/UI Design</Link>
+                    <Link href="/services/details/2">SAP ERP OR SAP Solution</Link>
                   </li>
                   <li>
-                    <Link href="/services/details">Big Data Analysis</Link>
+                    <Link href="/services/details/3">Custom Application Development Services </Link>
                   </li>
                   <li>
-                    <Link href="/services/details">Desktop Applications</Link>
+                    <Link href="/services/details/4">Cyber Security</Link>
                   </li>
                   <li>
-                    <Link href="/services/details">Mobile Applications</Link>
+                    <Link href="/services/details/5">CCTV Surveillance system</Link>
                   </li>
                 </ul>
               </div>
@@ -108,9 +108,9 @@ const Footer = () => {
                   <li>
                     <Link href="/services">Services</Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/pricing">Pricing</Link>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -127,20 +127,20 @@ const Footer = () => {
                 <ul className="footer-contact-list">
                   <li>
                     <span>Address:</span>
-                    2750 Quadra Street <br /> Victoria, Canada
+                    FLAT – G/F, GROUND FLOOR, “NIGHAM SMRITI APARTMENT” 175/1, BLOCK A, Bangur Ave, Kolkata, West Bengal 700055
                   </li>
                   <li>
                     <span>Email:</span>
-                    loremipsum@gmail.com
+                    gnb@gruenbleen.com
                   </li>
                   <li>
                     <span>Phone:</span>
-                    +44 587 154756
+                    091637 76777
                   </li>
-                  <li>
+                  {/* <li>
                     <span>Fax:</span>
-                    +44 785 4578964
-                  </li>
+                   091637 76777
+                  </li> */}
                 </ul>
               </div>
             </div>
@@ -156,12 +156,14 @@ const Footer = () => {
                   {/* <a href="https://envytheme.com/" target="_blank">
                     EnvyTheme
                   </a> */}
-                  
+
                 </p>
               </div>
 
               <div className="col-lg-6 col-md-6 col-sm-6">
-                <ul>
+                <ul style={{
+                  cursor: 'pointer'
+                }}>
                   <li>
                     <Link href="/privacy-policy">Privacy Policy</Link>
                   </li>

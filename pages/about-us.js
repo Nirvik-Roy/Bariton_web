@@ -35,7 +35,7 @@ export default function AboutUs() {
 
       <PricingCard />
 
-      <FreeTrialForm />
+      {/* <FreeTrialForm /> */}
 
       <Footer />
     </>

@@ -20,7 +20,7 @@ const MainBanner = () => {
                   data-aos-duration="1000"
                   data-aos-delay="100"
                 >
-                  Empowring Business with Intelligent Machine Learning Solutions
+        Accelerating Business Growth with any kind of IT solution.
                 </h1>
 
                 <p
@@ -28,10 +28,10 @@ const MainBanner = () => {
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
-                  Our cutting-edge ML technologies deliver smarter support, deeper insights, and meaningful customer engagement. From advanced chatbots to intelligent automation, we help you create experience that connect, convert, and grow.
+                Unlock smarter operations, sharper insights, and stronger customer connections with our advanced ML solutions. From AI-powered chatbots to intelligent process automation, we empower your business to engage, adapt, and thrive in a digital-first world. Let us help you craft seamless experiences that drive growth, boost efficiency, and transform how you connect with your customers.
                 </p>
 
-                <div
+                {/* <div
                   className="btn-box"
                   data-aos="fade-up"
                   data-aos-duration="1000"
@@ -44,7 +44,7 @@ const MainBanner = () => {
                   <Link href="/contact" className="optional-btn">
                     Get Started Free
                   </Link>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

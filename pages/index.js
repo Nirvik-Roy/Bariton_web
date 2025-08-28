@@ -25,14 +25,16 @@ export default function Home() {
       <Webinar />
 
       <PartnerContent />
-
+         <div style={{
+          paddingBottom:'100px'
+         }}></div>
       <FeedbackSlider />
 
       <PricingCard />
 
       <BlogPost />
 
-      <FreeTrialForm />
+      {/* <FreeTrialForm /> */}
 
       <Footer />
     </>

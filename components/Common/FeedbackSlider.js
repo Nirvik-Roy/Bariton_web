@@ -23,13 +23,9 @@ const FeedbackSlider = () => {
               <div className="row m-0">
                 <div className="col-lg-6 col-md-12 p-0">
                   <div className="feedback-item">
-                    <p>
-                      Grue & Bleen Technologies exceeded our expectations. Their team delivered a complex solution on time, with great attention to detail and seamless communication throughout the project. We've seen a 40% boost in operational efficiency since implementation.
-                    </p>
-                    <p>
-                      Exceptional service and technical expertise. From software development to development, their team has been a true partner in our digital transformation journey.
-                    </p>
-                    <p>Working with this team was effortless. Their understanding of our requirements and ability to deliver scalable, user-friendly solutions made all the difference.</p>
+                    <p>Grue & Bleen Technologies exceeded our expectations. Their team delivered a complex solution on time, with great attention to detail and seamless communication throughout the project.</p>
+
+
 
                     <div className="client-info">
                       <div className="client-pic">
@@ -41,7 +37,7 @@ const FeedbackSlider = () => {
                         />
                       </div>
 
-                      <h3>Filip Luis</h3>
+                      <h3>Pratul Patel</h3>
                       <span>Founder & CEO</span>
                     </div>
                   </div>
@@ -70,10 +66,7 @@ const FeedbackSlider = () => {
                 <div className="col-lg-6 col-md-12 p-0">
                   <div className="feedback-item">
                     <p>
-                      There are many variations of passages of Lorem Ipsum
-                      available, but the majority have suffered alteration in
-                      some form, by injected humour predefined words which don't
-                      look.
+                      Exceptional service and technical expertise. From software development to deployment, their team has been a true partner in our digital transformation journey.
                     </p>
 
                     <div className="client-info">
@@ -86,8 +79,8 @@ const FeedbackSlider = () => {
                         />
                       </div>
 
-                      <h3>Sarah Taylor</h3>
-                      <span>Designer</span>
+                      <h3>Sonakshi Roy</h3>
+                         <span>Founder & CEO</span>
                     </div>
                   </div>
                 </div>
@@ -115,10 +108,10 @@ const FeedbackSlider = () => {
                 <div className="col-lg-6 col-md-12 p-0">
                   <div className="feedback-item">
                     <p>
-                      There are many variations of passages of Lorem Ipsum
-                      available, but the majority have suffered alteration in
-                      some form, by injected humour predefined words which don't
-                      look.
+                      "Working with this team was effortless. 
+                      Their understanding of our requirements and 
+                      ability to deliver scalable, user-friendly solutions 
+                      made all the difference."
                     </p>
 
                     <div className="client-info">
@@ -131,8 +124,8 @@ const FeedbackSlider = () => {
                         />
                       </div>
 
-                      <h3>Sarah Taylor</h3>
-                      <span>Designer</span>
+                      <h3>Sania Bharti</h3>
+                        <span>Founder & CEO</span>
                     </div>
                   </div>
                 </div>

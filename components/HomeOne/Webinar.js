@@ -27,9 +27,9 @@ const Webinar = () => {
                 End-to-end Innovation: From strategy and design to execution and support, we're with you every step.
               </p>
 
-              <Link href="#" className="btn btn-primary">
+              {/* <Link href="#" className="btn btn-primary">
                 Watch More
-              </Link>
+              </Link> */}
             </div>
           </div>
 

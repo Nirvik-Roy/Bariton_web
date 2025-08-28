@@ -98,7 +98,7 @@ const NavbarSix = () => {
                           }`}
                       // onClick={(e) => e.preventDefault()}
                     >
-                      Pages
+                      About Us
                     </Link>
 
                     
@@ -148,21 +148,21 @@ const NavbarSix = () => {
 
                 {/* others-options */}
                 <div className="others-options">
-                  <Link href="/cart" className="cart-btn">
+                  {/* <Link href="/cart" className="cart-btn">
                     <i className="flaticon-commerce-and-shopping"></i>
                     <span>1</span>
-                  </Link>
+                  </Link> */}
 
-                  <div className="option-item">
+                  {/* <div className="option-item">
                     <i
                       className="search-btn flaticon-search"
                       onClick={handleToggleSearchModal}
                     ></i>
-                  </div>
+                  </div> */}
 
-                  <Link href="/contact" className="btn btn-primary">
+                  {/* <Link href="/contact" className="btn btn-primary">
                     Schedule a Demo
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             </nav>

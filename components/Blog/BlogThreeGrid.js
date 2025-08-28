@@ -27,19 +27,18 @@ const BlogThreeGrid = () => {
                       <li>
                         <Link href="#">Admin</Link>
                       </li>
-                      <li>March 10, 2023</li>
+                      <li>July 10, 2025</li>
                     </ul>
                   </div>
 
                   <h3>
                     <Link href="/blog/details">
-                      Making Peace With The Feast Or Famine Of Freelancing
+                    The ethics of AI
                     </Link>
                   </h3>
 
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod...
+                   Generative AI tools are becoming everyday business utilities, yet true value comes from proprietary ...
                   </p>
 
                   <Link href="/blog/details" className="learn-more-btn">
@@ -68,21 +67,20 @@ const BlogThreeGrid = () => {
                       <li>
                         <Link href="#">Admin</Link>
                       </li>
-                      <li>March 11, 2023</li>
+                            <li>July 10, 2025</li>
                     </ul>
                   </div>
 
                   <h3>
-                    <Link href="/blog/details">
-                      I Used The Web For A Day On A 50 MB Budget
+                    <Link href="/blog/details2">
+                     Solar Energy
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod...
+                   Explore how IT solutions enhance solar energy utilization in homes and businesses...
                   </p>
 
-                  <Link href="/blog/details" className="learn-more-btn">
+                  <Link href="/blog/details2" className="learn-more-btn">
                     Read More <i className="flaticon-add"></i>
                   </Link>
                 </div>
@@ -108,149 +106,30 @@ const BlogThreeGrid = () => {
                       <li>
                         <Link href="#">Admin</Link>
                       </li>
-                      <li>March 12, 2023</li>
+                      <li>July 10, 2025</li>
                     </ul>
                   </div>
 
                   <h3>
-                    <Link href="/blog/details">
-                      Here are the 5 most telling signs of micromanagement
+                    <Link href="/blog/details3">
+                    It Innovations
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod...
+                   IT often focus on topics like trending technologies AI, machine learning, cloud ...
                   </p>
 
-                  <Link href="/blog/details" className="learn-more-btn">
+                  <Link href="/blog/details3" className="learn-more-btn">
                     Read More <i className="flaticon-add"></i>
                   </Link>
                 </div>
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6">
-              <div className="single-blog-post">
-                <div className="entry-thumbnail">
-                  <Link href="/blog/details">
-                    <Image
-                      src="/images/blog/blog4.jpg"
-                      alt="image"
-                      width={510}
-                      height={415}
-                    />
-                  </Link>
-                </div>
 
-                <div className="entry-post-content">
-                  <div className="entry-meta">
-                    <ul>
-                      <li>
-                        <Link href="#">Admin</Link>
-                      </li>
-                      <li>March 13, 2023</li>
-                    </ul>
-                  </div>
-
-                  <h3>
-                    <Link href="/blog/details">
-                      Add And Show Image With Size From Elementor Widget
-                    </Link>
-                  </h3>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod...
-                  </p>
-
-                  <Link href="/blog/details" className="learn-more-btn">
-                    Read More <i className="flaticon-add"></i>
-                  </Link>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-md-6">
-              <div className="single-blog-post">
-                <div className="entry-thumbnail">
-                  <Link href="/blog/details">
-                    <Image
-                      src="/images/blog/blog5.jpg"
-                      alt="image"
-                      width={510}
-                      height={415}
-                    />
-                  </Link>
-                </div>
-
-                <div className="entry-post-content">
-                  <div className="entry-meta">
-                    <ul>
-                      <li>
-                        <Link href="#">Admin</Link>
-                      </li>
-                      <li>March 14, 2023</li>
-                    </ul>
-                  </div>
-
-                  <h3>
-                    <Link href="/blog/details">
-                      How To The Active Menu Based On URL In Next.JS?
-                    </Link>
-                  </h3>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod...
-                  </p>
-
-                  <Link href="/blog/details" className="learn-more-btn">
-                    Read More <i className="flaticon-add"></i>
-                  </Link>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-md-6">
-              <div className="single-blog-post">
-                <div className="entry-thumbnail">
-                  <Link href="/blog/details">
-                    <Image
-                      src="/images/blog/blog6.jpg"
-                      alt="image"
-                      width={510}
-                      height={415}
-                    />
-                  </Link>
-                </div>
-
-                <div className="entry-post-content">
-                  <div className="entry-meta">
-                    <ul>
-                      <li>
-                        <Link href="#">Admin</Link>
-                      </li>
-                      <li>March 14, 2023</li>
-                    </ul>
-                  </div>
-
-                  <h3>
-                    <Link href="/blog/details">
-                      Instagram Feed Add To Your WordPress Site
-                    </Link>
-                  </h3>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod...
-                  </p>
-
-                  <Link href="/blog/details" className="learn-more-btn">
-                    Read More <i className="flaticon-add"></i>
-                  </Link>
-                </div>
-              </div>
-            </div>
 
             {/* Pagination */}
-            <div className="col-lg-12 col-sm-12">
+            {/* <div className="col-lg-12 col-sm-12">
               <div className="pagination-area">
                 <a href="#" className="prev page-numbers">
                   <i className="fas fa-angle-double-left"></i>
@@ -276,7 +155,7 @@ const BlogThreeGrid = () => {
                   <i className="fas fa-angle-double-right"></i>
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
 

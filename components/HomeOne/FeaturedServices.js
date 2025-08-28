@@ -19,12 +19,12 @@ const FeaturedServices = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">
-                    Software Development & Consulting
+                  <Link href="/services/details/1">
+                  On-Time, On-Budget Delivery
                   </Link>
                 </h3>
                 <p>
-                  End-to-end solutions from ideation to deployment, tailored to help you unlock digital potential.
+                We pride ourselves on delivering projects within the agreed timeline and budget, without compromising on quality.
                 </p>
               </div>
             </div>
@@ -35,16 +35,16 @@ const FeaturedServices = () => {
               data-aos-duration="1000"
               data-aos-delay="400"
             >
-              <div className="single-featured-services-box active">
+              <div className="single-featured-services-box ">
                 <div className="icon">
                   <i className="flaticon-artificial-intelligence"></i>
                 </div>
 
                 <h3>
-                  <Link href="/services/details">Robotic Process Automation(RPA)</Link>
+                  <Link href="/services/details/2">End-to-End Solutions</Link>
                 </h3>
                 <p>
-                  Automate routine tasks with precision and intelligence, boosting performance and reliability
+                We provide comprehensive IT services — from strategy and consulting to development, deployment, and support — under one roof.
                 </p>
               </div>
             </div>
@@ -61,10 +61,10 @@ const FeaturedServices = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details">ERP & IOT Integration</Link>
+                  <Link href="/services/details/3">Post-Launch Support & Maintenance</Link>
                 </h3>
                 <p>
-                  Seamlessly connect your enterprise systems and devices using modern ERP and IoT frameworks
+                We don’t just deliver and leave — our robust support services ensure your IT systems keep performing at their best.
                 </p>
               </div>
             </div>

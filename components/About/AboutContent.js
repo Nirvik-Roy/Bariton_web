@@ -31,7 +31,6 @@ const AboutContact = () => {
                   Grue and Bleen Technologies Pvt. Ltd. is a future-focused IT and engineering services company headquartered in India. With a commitment to driving innovation, efficiency, and sustainability, we offer transformative solutions across ERP, IoT, software development, staff augmentation, and renewable energy consulting.
                 </p>
                 <p>We believe in making technology accessible, scalable, and meaningful for both enterprises and government institutions.</p>
-                
               </div>
             </div>
           </div>
@@ -51,7 +50,7 @@ const AboutContact = () => {
                 <div className="about-text">
                   <h3>🎯 Our Mission</h3>
                   <p>
-                    To empower organizations with reliable, cost-effective, and intelligent solutions that simplify operations, automate processes, and drive sustainable growth.
+                     To empower organizations with reliable, cost-effective, and intelligent solutions that simplify operations, automate processes, and drive sustainable growth.
                   </p>
                 </div>
               </div>
@@ -64,7 +63,7 @@ const AboutContact = () => {
                   </p>
                 </div>
               </div>
-              {/* <p>At the heart of our work is a commitment to integrity, innovation, and long-term success-for our clients, our people, and the communities we serve.</p> */}
+             {/* <p>At the heart of our work is a commitment to integrity, innovation, and long-term success-for our clients, our people, and the communities we serve.</p> */}
             </div>
           </div>
         </div>

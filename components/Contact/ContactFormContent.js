@@ -11,7 +11,11 @@ const ContactFormContent = () => {
             <span>Message Us</span>
             <h2>Let's Build Something Great Together</h2>
             <p>
+<<<<<<< HEAD
               Have a project in mind or looking for a reliable tech partner? We're just a message away. Whether you're a startup, enterprise, or government body, our team is here to listen, advise, and deliver. 
+=======
+              Have a project in mind or looking for a reliable tech partner? We're just a message away. Whether you're a startup, enterprise, or government body, our team is here to listen, advise, and deliver.
+>>>>>>> 78a299cda4aa6b8876156145650b3daccd9f0ff3
             </p>
           </div>
 
@@ -45,7 +49,11 @@ const ContactFormContent = () => {
                 <span className="email">✉️ info@gruebleen.com</span>
               </h2>
 
+<<<<<<< HEAD
               <h3 style={{marginTop:"20px"}}>Business Hours:</h3>
+=======
+              <h3 style={{ marginTop: "20px" }}>Business Hours:</h3>
+>>>>>>> 78a299cda4aa6b8876156145650b3daccd9f0ff3
               <h3>Monday to Saturday: 9:30 AM - 7:00 PM IST</h3>
               <h3>Sunday: Closed</h3>
 

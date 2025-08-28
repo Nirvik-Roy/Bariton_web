@@ -25,10 +25,13 @@ const PartnerContent = () => {
             >
               <a href="#" target="_blank" rel="noreferrer">
                 <Image
-                  src="/images/partner/partner1.png"
+                  src="/images/jpc.jpg"
                   alt="image"
                   width={200}
                   height={60}
+                  style={{
+                    height:'60px'
+                  }}
                 />
               </a>
             </div>
@@ -41,10 +44,14 @@ const PartnerContent = () => {
             >
               <a href="#" target="_blank" rel="noreferrer">
                 <Image
-                  src="/images/partner/partner2.png"
+                  src="/images/logo.png"
                   alt="image"
                   width={200}
                   height={60}
+                  style={{
+                    height:'60px'
+                  }}
+         
                 />
               </a>
             </div>
@@ -57,10 +64,13 @@ const PartnerContent = () => {
             >
               <a href="#" target="_blank" rel="noreferrer">
                 <Image
-                  src="/images/partner/partner3.png"
+                  src="/images/logo_tek.jpg"
                   alt="image"
                   width={200}
                   height={60}
+                  style={{
+                    height:'60px'
+                  }}
                 />
               </a>
             </div>
@@ -73,10 +83,13 @@ const PartnerContent = () => {
             >
               <a href="#" target="_blank" rel="noreferrer">
                 <Image
-                  src="/images/partner/partner4.png"
+                  src="/images/logo-tekskills.jpg"
                   alt="image"
                   width={200}
                   height={60}
+                  style={{
+                    height:'60px'
+                  }}
                 />
               </a>
             </div>
@@ -89,10 +102,13 @@ const PartnerContent = () => {
             >
               <a href="#" target="_blank" rel="noreferrer">
                 <Image
-                  src="/images/partner/partner5.png"
+                  src="/images/logo-web.jpg"
                   alt="image"
                   width={200}
                   height={60}
+                  style={{
+                    height:'60px'
+                  }}
                 />
               </a>
             </div>
@@ -105,10 +121,13 @@ const PartnerContent = () => {
             >
               <a href="#" target="_blank" rel="noreferrer">
                 <Image
-                  src="/images/partner/partner6.png"
+                  src="/images/qt=q_95.png"
                   alt="image"
                   width={200}
                   height={60}
+                  style={{
+                    height:'60px'
+                  }}
                 />
               </a>
             </div>
@@ -121,10 +140,13 @@ const PartnerContent = () => {
             >
               <a href="#" target="_blank" rel="noreferrer">
                 <Image
-                  src="/images/partner/partner1.png"
+                  src="/images/saduplogo_11.png"
                   alt="image"
                   width={200}
                   height={60}
+                  style={{
+                    height:'60px'
+                  }}
                 />
               </a>
             </div>
@@ -137,10 +159,13 @@ const PartnerContent = () => {
             >
               <a href="#" target="_blank" rel="noreferrer">
                 <Image
-                  src="/images/partner/partner2.png"
+                  src="/images/yantrify_new_logo_transp.png"
                   alt="image"
                   width={200}
                   height={60}
+                  style={{
+                    height:'60px'
+                  }}
                 />
               </a>
             </div>
@@ -153,10 +178,13 @@ const PartnerContent = () => {
             >
               <a href="#" target="_blank" rel="noreferrer">
                 <Image
-                  src="/images/partner/partner3.png"
+                  src="/images/yogik logo.jpg"
                   alt="image"
                   width={200}
                   height={60}
+                  style={{
+                    height:'60px'
+                  }}
                 />
               </a>
             </div>

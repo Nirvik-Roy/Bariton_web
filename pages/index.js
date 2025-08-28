@@ -1,4 +1,5 @@
 import React from "react";
+import Head from "next/head";
 import Navbar from "../components/Layouts/Navbar";
 import MainBanner from "../components/HomeOne/MainBanner";
 import About from "../components/HomeOne/About";
@@ -14,6 +15,9 @@ import Footer from "../components/Layouts/Footer";
 export default function Home() {
   return (
     <>
+    <Head>
+      <meta name="description" content="Discover scalable ERP, IoT automation, custom app development, and renewable energy consulting with Grue and Bleen Technologies – trusted by enterprises and governments."></meta>
+    </Head>
       <Navbar />
 
       <MainBanner />

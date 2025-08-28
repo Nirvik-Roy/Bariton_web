@@ -16,11 +16,8 @@ export default function AboutUs() {
     <>
     <Head>
         
-        <meta
-          name="description"
-          content="Explore Grue and Bleen’s specialized cyber security services: ICS/SCADA security, penetration testing, audits, forensics, and awareness training tailored for industries and enterprises."
-        />
-        <meta name="keywords" content="Cyber Security, ICS Security, SCADA, VAPT, Penetration Testing, Incident Response, Awareness Training, Grue and Bleen" />
+        <meta name="description" content="Learn about Grue and Bleen Technologies – our mission, team, values, and how we build sustainable, future-ready digital solutions for businesses and government clients."/>
+        
       </Head>
       <NavbarTwo />
 

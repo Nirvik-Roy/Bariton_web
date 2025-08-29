@@ -16,16 +16,11 @@ const Webinar = () => {
         <div className="row m-0">
           <div className="col-lg-6 p-0">
             <div className="webinar-content">
-              <h2>Why Choose Us</h2>
+              <h2>Why Grue and Bleen?</h2>
               <p>
-                Customer-centric & Collaborative: We work alongside your team, ensuring each project is a collaborative journey.
+                ✅ Deep experience across 11+ verticals - 🔐 Security-first systems with audit readiness - 🌿 Clean energy and sustainability aligned - 🛠️ Modular, scalable, and future-proof design - 🎯 Outcomes-focused with transparent delivery
               </p>
-              <p>
-                Small Team, Big Impact: A focused team of seasoned professionals delivers high-quality outcomes efficiently and responsively
-              </p>
-              <p>
-                End-to-end Innovation: From strategy and design to execution and support, we're with you every step.
-              </p>
+              
 
               {/* <Link href="#" className="btn btn-primary">
                 Watch More

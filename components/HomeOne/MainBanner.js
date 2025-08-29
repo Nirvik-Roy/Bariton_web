@@ -20,7 +20,7 @@ const MainBanner = () => {
                   data-aos-duration="1000"
                   data-aos-delay="100"
                 >
-        Accelerating Business Growth with any kind of IT solution.
+        Accelerating Innovation for the Connected World
                 </h1>
 
                 <p
@@ -28,7 +28,7 @@ const MainBanner = () => {
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
-                Unlock smarter operations, sharper insights, and stronger customer connections with our advanced ML solutions. From AI-powered chatbots to intelligent process automation, we empower your business to engage, adapt, and thrive in a digital-first world. Let us help you craft seamless experiences that drive growth, boost efficiency, and transform how you connect with your customers.
+                Greu and Bleen Technologies Pvt. Ltd. is a trusted partner in ERP, IoT, Cyber Security, Renewable Energy, and Custom Development-delivering secure, scalable, and sustainable solutions for businesses and governments.
                 </p>
 
                 {/* <div

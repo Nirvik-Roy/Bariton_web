@@ -25,10 +25,10 @@ const Services = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details/1">IT Consulting</Link>
+                  <Link href="/services/details/1">IT Consulting & Staff Augmentation</Link>
                 </h3>
                 <p>
-                  Our IT Consulting Services empower businesses to leverage technology effectively, streamline operations, and accelerate growth. We combine industry expertise with innovative strategies to help you solve complex IT challenges and unlock new business opportunities.
+                  Build your technology team with flexible staffing solutions: - Remote SAP Consultants (ABAP, BASIS, HANA) - Contract Developers (Java, QA, IoT, DevOps) - C2H & Long-Term Engagements with managed services - Project-based Consulting for e-governance and private enterprise
                 </p>
               </div>
             </div>
@@ -45,10 +45,10 @@ const Services = () => {
                 </div>
 
                 <h3>
-                  <Link href="/services/details/2">SAP ERP OR SAP Solution</Link>
+                  <Link href="/services/details/2">ERP Solutions</Link>
                 </h3>
                 <p>
-                  We provide end-to-end SAP ERP and SAP Solution services designed to drive operational excellence, improve data visibility, and streamline business processes. Our SAP services are tailored to help you achieve digital transformation.
+                  We offer full-cycle ERP services including consulting, deployment, enhancement, and support. Our team specializes in:- <b>SAP Modules</b>: ABAP, BW/4HANA, Ariba, EWM, GTS, MDG, and Workflow. -<b>Oracle ERP:</b> Implementation, data migration, and performance tuning. - <b>ERP Customization</b>: Tailorod interfaces, smart forms, IDoc and OData integrations. <b>Third Party Integration</b>: Seamless connection with legacy systems and modern APIs.
                 </p>
               </div>
             </div>
@@ -68,7 +68,7 @@ const Services = () => {
                   <Link href="/services/details/3">Custom Application Development Services Overview</Link>
                 </h3>
                 <p>
-                  We specialize in Custom Application Development, delivering tailored digital solutions that align precisely with your unique business objectives. Our focus is on creating scalable, secure, and innovative applications designed to optimize your processes and drive growth.
+                  From simple business tools to enterprise-grade platforms, we design and build:- <b>Full-Stack Applications</b> using React.js, Node.js, MongoDB/PostgreSQL - <b>Android Mobile Applications</b> with advanced features like geolocation, sensor input, offline sync - <b>Web Portals</b> with multi-role access, rel-time dashboards, and workflows -<b>Secure APIs</b> using REST and GraphQL
                 </p>
               </div>
             </div>

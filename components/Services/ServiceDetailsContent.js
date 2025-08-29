@@ -60,18 +60,16 @@ const ServiceDetailsContent = ({ id }) => {
               {id === "4" && <h3>Cyber Security Services</h3>}
               {id === "4" && (
                 <>
-                  <h5>
-                    🔐 Strengthening Digital Defenses for Businesses & Industry
-                  </h5>
+                  
                   <p>
-                    In today’s interconnected world, security is more than a
-                    compliance checkbox — it’s a critical pillar of business
-                    resilience. At <b>Grue and Bleen Technologies</b>, we
-                    deliver specialized cyber security services to safeguard IT
-                    and OT environments, including Industrial Control Systems
-                    (ICS), enterprise networks, cloud infrastructure, and
-                    applications.
+                    Our cybersecurity division safeguards your infrastructure across digital and industrial environments: - ICS (Industrial Control System) Security – Protect OT/IT convergence zones - Vulnerability Assessment & Penetration Testing (VAPT) – Uncover and mitigate security flaws - Security Audit & Compliance – Ensure readiness for ISO, NIST, CERT-In, and government protocols - Cyber Forensics – Trace and analyze breaches for investigation and legal compliance - Simulation Testing – Run stress drills to evaluate breach resilience and system endurance
                   </p>
+                  <ul>
+                    <li><b>• Rapid Onboarding</b>: Quick turnaround from contract to delivery</li>
+                    <li><b>• Flexible Engagements</b>: Fixed cost, T&M, and hybrid models</li>
+                    <li><b>• Industry-tested Solutions</b>: Proven in government and enterprise</li>
+                    <li><b>• Dedicated Support</b>: SLA-driven post-implementation service</li>
+                  </ul>
                 </>
               )}
               {id === "5" && <h3>CCTV Surveillance System</h3>}

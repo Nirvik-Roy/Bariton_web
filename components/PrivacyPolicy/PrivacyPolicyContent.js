@@ -5,94 +5,51 @@ const PrivacyPolicyContent = () => {
     <>
       <div className="text-container ptb-110">
         <div className="container">
-          <h4>What is lorem ipsum?</h4>
+        <h4>Effective Date: 29-08-2025</h4>
+        <p>Grue and Bleen Technologies Pvt. Ltd. (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit our website or engage with our services.</p>
+          <h4>1. Information We Collect</h4>
 
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged. It was popularised in the 1960s
-            with the release of Letraset sheets containing Lorem Ipsum passages,
-            and more recently with desktop publishing software like Aldus
-            PageMaker including versions of Lorem Ipsum.
+             <b>a. Personal Information:</b> -Name -Email address -Contact number -Company name - Job title (if provided)
+          </p>
+          <p>
+             <b>b. Technical Information:</b> -IP address -Browser type and version -Device type - pages visited and time spent on the website - Referring website URLs
+          </p>
+          <p>
+             <b>c. Cookies and Tracking:</b> we use cookies and similar tracking technologies to improve your browsing experience and analyze traffic. You can control cookie preference in your browser settings.
           </p>
 
-          <h4>Where does it come from?</h4>
+          <h4>2. How We Use Your Information</h4>
           <p>
-            Contrary to popular belief, Lorem Ipsum is not simply random text.
-            It has roots in a piece of classical Latin literature from 45 BC,
-            making it over 2000 years old. Richard McClintock, a Latin professor
-            at Hampden-Sydney College in Virginia, looked up one of the more
-            obscure Latin words, consectetur, from a Lorem Ipsum passage, and
-            going through the cites of the word in classical literature,
-            discovered the undoubtable source. Lorem Ipsum comes from sections
-            1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes
-            of Good and Evil) by Cicero, written in 45 BC. This book is a
-            treatise on the theory of ethics, very popular during the
-            Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit
-            amet..".
+            We may use your information to:- Respond to inquires and provide support - Send updates or service-related communications - Improve our website functionality and security - Personalize content and User experience - Comply with legal or regulatory obligations.
           </p>
 
+
+          <h4>3. Information Sharing and Disclosure</h4>
           <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-            quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-            aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
-            eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est,
-            qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore
-            magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
-            nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut
-            aliquid ex ea commodi consequatur? Quis autem vel eum iure
-            reprehenderit qui in ea voluptate velit esse quam nihil molestiae
-            consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla
+            We do not sell or rent your personal data. We may share your information:- With Service providers for hosting, analytics, or marketing support - If required by law or government authorities - In the event of a merger, acquisition, or company restructuring
           </p>
 
-          <h4>Where can I get some?</h4>
+        <h4>4. Data Security</h4>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim.
+            We implement industry-standard measures to protect your data from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet id 100% secure.
           </p>
 
+          <h4>5. Your Rights and Choices</h4>
           <p>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don't look even slightly
-            believable. If you are going to use a passage of Lorem Ipsum, you
-            need to be sure there isn't anything embarrassing hidden in the
-            middle of text. All the Lorem Ipsum generators on the Internet tend
-            to repeat predefined chunks as necessary, making this the first true
-            generator on the Internet. It uses a dictionary of over 200 Latin
-            words, combined with a handful of model sentence structures, to
-            generate Lorem Ipsum which looks reasonable. The generated Lorem
-            Ipsum is therefore always free from repetition, injected.
+            You may:- Request access to or correction of your data - Withdraw consent at any time - Opt out of marketing communications by contacting us
           </p>
+          <p>To exercise your rights, email us at: <b>privacy@gruebleen.com</b></p>
+          <h4>6. Third-Party Links</h4>
+          <p>Our website may contain links to other websites. We are not responsible for their privacy practices. Please review their privacy policies individually.</p>
 
-          <p>
-            But I must explain to you how all this mistaken idea of denouncing
-            pleasure and praising pain was born and I will give you a complete
-            account of the system, and expound the actual teachings of the great
-            explorer of the truth, the master-builder of human happiness. No one
-            rejects, dislikes, or avoids pleasure itself, because it is
-            pleasure, but because those who do not know how to pursue pleasure
-            rationally encounter consequences that are extremely painful. Nor
-            again is there anyone who loves or pursues or desires to obtain pain
-            of itself, because it is pain, but because occasionally
-            circumstances occur in which toil and pain can procure him some
-            great pleasure. To take a trivial example, which of us ever
-            undertakes laborious physical exercise, except to obtain some
-            advantage from it? But who has any right to find fault with a man
-            who chooses to enjoy a pleasure that has no annoying consequences,
-            or one who avoids a pain that produces no resultant pleasure?
-          </p>
+          <h4>7. Changes to This Policy</h4>
+          <p>We may update this Privacy Policy periodically. Any changes will be posted here with a revised effective data.</p>
+
+          <h4>8. Contact Us</h4>
+          <p>For questions about this Privacy Policy or your data: 📩 <b>privacy@greubleen.com</b> </p>
+          <p>📞 [Insert phone number]</p>
+          <p>📍 [Insert address line, if desired]</p>
         </div>
       </div>
     </>

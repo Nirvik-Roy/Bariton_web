@@ -1,30 +1,30 @@
 import Head from "next/head";
 import NavbarTwo from "../components/Layouts/NavbarTwo";
 import PageBanner from "../components/Common/PageBanner";
-import CareerContent from "../components/Career/CareerContent";
 import Footer from "../components/Layouts/Footer";
+import IoTContent from "../components/IoT/IoTContent";
 
-export default function Career() {
+export default function IoT() {
   return (
     <>
       <Head>
         <meta
           name="description"
-          content="Join Grue and Bleen Technologies and work on cutting-edge projects in SAP, IoT, app development, and more. Remote, hybrid, and internship opportunities available."
-        />
+          content="Deploy smart infrastructure with IoT-driven waste collection, BMS, energy metering, and visitor management systems. Scalable and secure automation solutions."
+        ></meta>
       </Head>
 
       <NavbarTwo />
 
       <PageBanner
-        pageTitle="Careers at Grue and Bleen | Tech Jobs & Internships in ERP, IoT, Dev"
+        pageTitle="IoT & Smart Automation Solutions | Waste, Energy & Security Systems"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Career"
+        activePageText="IoT & Smart Automation Solutions"
         bgImg="/images/page-title-bg1.jpg"
       />
 
-      <CareerContent />
+      <IoTContent />
 
       <Footer />
     </>
